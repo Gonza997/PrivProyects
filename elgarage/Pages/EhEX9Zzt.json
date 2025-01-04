@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "checks",
+  "order": 1000,
+  "parent": "vT1fBfbw",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "EhEX9Zzt",
+  "value": "useState",
+  "values": {
+    "variableName": "checks"
+  }
+}

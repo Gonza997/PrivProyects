@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "CpcvLklz",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "eiTDBVuB",
+  "value": "text",
+  "values": {
+    "Content": "El Garage"
+  }
+}

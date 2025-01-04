@@ -1,0 +1,22 @@
+{
+  "cascades": false,
+  "name": "calculate",
+  "order": 1000,
+  "parent": "0k6db5LI",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "ServerAddenum",
+      "value": "{% if element.values.serverSide %}\n{% if element.values.comment %}\n  /**\n  {{ element.values.comment }}\n  */\n{% endif %}\nglobal.{{ element.values.functionName }} = {% if element.values.async%}async {% endif %}({{ element.values.functionParameters }}) => {\n  {{ element.values.functionBody | raw }}\n  {{ content | raw }}  \n}\n{% endif %}"
+    }
+  ],
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "eHdNiS4R",
+  "value": "function",
+  "values": {
+    "functionName": "calculate",
+    "functionBody": "if (selectedIndex !== null) {\r\n  const precioUnitario = fotocopias[selectedIndex].Precio;\r\n  const total = precioUnitario * cantidad;\r\n  settotalPrecio(total);\r\n} else {\r\n  settotalPrecio(0); \r\n}"
+  }
+}

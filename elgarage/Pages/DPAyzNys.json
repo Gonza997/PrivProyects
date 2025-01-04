@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "mAgCVNtt",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DPAyzNys",
+  "value": "text",
+  "values": {
+    "Content": "Ingrese la cantidad de hojas"
+  }
+}

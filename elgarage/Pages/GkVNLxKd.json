@@ -4,12 +4,14 @@
   "name": "typography",
   "order": 1000,
   "originalName": "typography",
-  "parent": "9tTzf9Ds",
+  "parent": "fthxKEEn",
   "path": "typography.tpl",
   "prevent_delete": false,
   "renderTag": "(elem) => { return elem.values.tag }",
   "type": "element",
-  "unique_id": "MrX14ZnZ",
+  "unique_id": "GkVNLxKd",
   "value": "typography",
-  "values": {}
+  "values": {
+    "tag": "h6"
+  }
 }

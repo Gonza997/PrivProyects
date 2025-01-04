@@ -1,13 +1,13 @@
 {
   "cascades": false,
   "name": "Text Content",
-  "parent": "MrX14ZnZ",
+  "parent": "GkVNLxKd",
   "path": "text.tpl",
   "prevent_delete": false,
   "type": "element",
-  "unique_id": "3sq5HUct",
+  "unique_id": "7lcdFBqo",
   "value": "text",
   "values": {
-    "Content": "{item.Tipo}"
+    "Content": "Precio $ {totalPrecio.toFixed(2)}"
   }
 }

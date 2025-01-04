@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "totalPrecio",
+  "order": 1000,
+  "parent": "vT1fBfbw",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "b72OxPfe",
+  "value": "useState",
+  "values": {
+    "variableName": "totalPrecio",
+    "defaultValue": "0"
+  }
+}

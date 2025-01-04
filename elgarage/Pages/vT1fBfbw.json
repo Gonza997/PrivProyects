@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "name": "UseStates",
+  "order": 3,
+  "parent": "0k6db5LI",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "vT1fBfbw",
+  "value": "dummyEncloser",
+  "values": {}
+}

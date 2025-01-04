@@ -1,0 +1,20 @@
+{
+  "cascades": false,
+  "name": "button Calcular",
+  "order": 2,
+  "parent": "fW3J7P04",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.ButtonText }",
+  "renderTag": "button",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "UQkTP8NK",
+  "value": "button",
+  "values": {
+    "ButtonText": "Calcular",
+    "Color": "primary",
+    "Variant": "outlined",
+    "Action": "calculate()"
+  }
+}

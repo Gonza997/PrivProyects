@@ -1,0 +1,21 @@
+{
+  "cascades": false,
+  "name": "uncontrolledInput",
+  "order": 50,
+  "parent": "bV67JSEU",
+  "path": "uncontrolledInput.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "0iyfZVcA",
+  "value": "uncontrolledInput",
+  "values": {
+    "type": "number",
+    "label": "Cantidad",
+    "variant": "outlined",
+    "size": "normal",
+    "margin": "normal",
+    "fullWidth": true,
+    "onChange": "setcantidad(Number(e.target.value))"
+  }
+}

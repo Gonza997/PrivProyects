@@ -3,7 +3,7 @@
   "cascades": false,
   "color": "rgb(0,230,230)",
   "double": true,
-  "name": "div",
+  "name": "div everyCheck",
   "order": 1,
   "parent": "EeSQRT1L",
   "path": "div.tpl",
@@ -13,6 +13,7 @@
   "unique_id": "9tTzf9Ds",
   "value": "div",
   "values": {
-    "tag": "div"
+    "tag": "div",
+    "class": "theme.everyCheck"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateStateVariable checks",
+  "order": 1000,
+  "parent": "USIBbD8O",
+  "path": "updateStateVariable.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "ksa8sKqV",
+  "value": "updateStateVariable",
+  "values": {
+    "variable": "checks",
+    "newvalue": "new Array(result.data.docs.length).fill(false)"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "cascades": false,
+  "display": "Checkbox",
+  "name": "Checkbox",
+  "order": 10,
+  "parent": "9tTzf9Ds",
+  "path": "CheckboxV2.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "wPUQ5TBT",
+  "value": "CheckboxV2",
+  "values": {
+    "size": "medium",
+    "effect": true,
+    "label": "{item.Tipo}",
+    "OnClick": "handleCheckChange(index)",
+    "Checked": "selectedIndex === index"
+  }
+}

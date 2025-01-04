@@ -1,0 +1,21 @@
+{
+  "cascades": false,
+  "name": "handleCheckChange",
+  "order": 1000,
+  "parent": "0k6db5LI",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "ServerAddenum",
+      "value": "{% if element.values.serverSide %}\n{{ element.values.code | raw }}\n{% endif %}"
+    }
+  ],
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "wXr3Tpvc",
+  "value": "code",
+  "values": {
+    "code": "const handleCheckChange = (index: number) => {\r\n    setselectedIndex(index);\r\n  }"
+  }
+}

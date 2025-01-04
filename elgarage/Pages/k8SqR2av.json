@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateStateVariable fotocopias",
+  "order": 1000,
+  "parent": "USIBbD8O",
+  "path": "updateStateVariable.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "k8SqR2av",
+  "value": "updateStateVariable",
+  "values": {
+    "variable": "fotocopias",
+    "newvalue": "result.data.docs"
+  }
+}

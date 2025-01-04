@@ -1,0 +1,16 @@
+{
+  "cascades": true,
+  "name": "navbar",
+  "parent": "RsVILr9h",
+  "path": "navbar.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "htMPE11O",
+  "value": "navbar",
+  "values": {
+    "Title": "",
+    "Color": "transparent",
+    "Position": "absolute",
+    "Elevation": "3"
+  }
+}

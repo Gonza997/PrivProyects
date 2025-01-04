@@ -1,0 +1,10 @@
+{
+  "cascades": false,
+  "name": "Register Functionality",
+  "parent": "Wdx5RUT4",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "uuUSv1EQ",
+  "value": "dummyEncloser"
+}

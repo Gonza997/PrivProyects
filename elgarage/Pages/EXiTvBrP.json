@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "5Jvf6Cc0",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "EXiTvBrP",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "NavLink",
+    "destination": "/register",
+    "fromLink": "L0sgrASh"
+  }
+}

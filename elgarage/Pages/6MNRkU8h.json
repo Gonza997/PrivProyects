@@ -1,0 +1,16 @@
+{
+  "cascades": true,
+  "name": "navbar",
+  "order": 1000,
+  "parent": "OlK31Tzp",
+  "path": "navbar.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "6MNRkU8h",
+  "value": "navbar",
+  "values": {
+    "Color": "primary",
+    "Position": "absolute"
+  }
+}

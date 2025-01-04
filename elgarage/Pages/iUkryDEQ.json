@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Container",
+  "parent": "cd2eSrex",
+  "path": "Container.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "iUkryDEQ",
+  "value": "Container",
+  "values": {
+    "maxWidth": "false"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "fotocopias",
+  "order": 1000,
+  "parent": "0k6db5LI",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "VsiCBSun",
+  "value": "useState",
+  "values": {
+    "variableName": "fotocopias",
+    "defaultValue": "[]"
+  }
+}

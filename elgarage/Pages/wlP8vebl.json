@@ -1,0 +1,10 @@
+{
+  "cascades": false,
+  "name": "Page Header",
+  "parent": "XATCiD0t",
+  "path": "ph.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "wlP8vebl",
+  "value": "ph"
+}

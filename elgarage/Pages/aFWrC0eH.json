@@ -1,0 +1,10 @@
+{
+  "cascades": false,
+  "name": "Page Footer",
+  "parent": "kRSZ4S5C",
+  "path": "pf.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "aFWrC0eH",
+  "value": "pf"
+}

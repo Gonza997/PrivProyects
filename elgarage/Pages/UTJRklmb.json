@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Data Table",
+  "parent": "Dyx4IZpp",
+  "path": "dataTable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "UTJRklmb",
+  "value": "dataTable",
+  "values": {
+    "table": "kkX37RFl",
+    "editProcedure": "Internal"
+  }
+}

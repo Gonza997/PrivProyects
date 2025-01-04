@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Login Area",
+  "parent": "U6GmzP3n",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "CXZT151Q",
+  "value": "div",
+  "values": {
+    "class": "theme.containerLogin"
+  }
+}

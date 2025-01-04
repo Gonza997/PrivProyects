@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Heading",
+  "parent": "BzleMUB0",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "OtPwyrRC",
+  "value": "div",
+  "values": {
+    "class": "theme.headingLogin"
+  }
+}

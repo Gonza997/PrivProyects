@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "loop",
+  "order": 1000,
+  "parent": "e35zMMyM",
+  "path": "loop.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "EeSQRT1L",
+  "value": "loop",
+  "values": {
+    "variablename": "item",
+    "indexName": "index",
+    "variable": "fotocopias"
+  }
+}

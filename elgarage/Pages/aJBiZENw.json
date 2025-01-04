@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "emailSender",
+  "parent": "lq73rmz7",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "aJBiZENw",
+  "value": "useState",
+  "values": {
+    "variableName": "emailSender",
+    "defaultValue": "''"
+  }
+}

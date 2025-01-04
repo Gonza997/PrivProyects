@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Table Area",
+  "parent": "6XZXVqnS",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ozy50X6q",
+  "value": "div",
+  "values": {
+    "class": "classes.tableResponsive"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Register Box",
+  "parent": "U6GmzP3n",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "BzleMUB0",
+  "value": "div",
+  "values": {
+    "class": "theme.loginBox"
+  }
+}

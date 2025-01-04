@@ -1,0 +1,14 @@
+{
+  "cascades": true,
+  "name": "Current User",
+  "parent": "gLNzxlHM",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "D8LTvu0M",
+  "value": "useState",
+  "values": {
+    "defaultValue": "{}",
+    "variableName": "currentUser"
+  }
+}

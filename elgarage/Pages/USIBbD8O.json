@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "performApiCall",
+  "order": 1000,
+  "parent": "ZJ68Kki3",
+  "path": "performApiCall.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "USIBbD8O",
+  "value": "performApiCall",
+  "values": {
+    "onError": "console.error(error)",
+    "urlFULL": true,
+    "url": "/api/precios",
+    "method": "get"
+  }
+}

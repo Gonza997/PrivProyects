@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Recover Success!",
+  "parent": "lqbARxpp",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "S0XG7523",
+  "value": "condition",
+  "values": {
+    "condition": "recoverSuccess"
+  }
+}

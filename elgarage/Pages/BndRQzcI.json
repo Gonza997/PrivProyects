@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "onPageLoad",
+  "order": 1000,
+  "parent": "0k6db5LI",
+  "path": "onPageLoad.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "BndRQzcI",
+  "value": "onPageLoad",
+  "values": {
+    "useEffectBody": "bringFirstData()"
+  }
+}

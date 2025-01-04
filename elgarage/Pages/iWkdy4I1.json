@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "searchField",
+  "parent": "EilZVFWK",
+  "path": "searchField.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "iWkdy4I1",
+  "value": "searchField",
+  "values": {
+    "table": "kkX37RFl",
+    "avoidLoad": true
+  }
+}

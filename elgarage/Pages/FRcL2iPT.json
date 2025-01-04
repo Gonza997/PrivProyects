@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "uqoToNGd",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "FRcL2iPT",
+  "value": "text",
+  "values": {
+    "Content": "Register",
+    "ClassName": "theme.textSignIn"
+  }
+}

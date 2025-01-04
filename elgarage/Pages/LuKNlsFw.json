@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "p62zRJzE",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "LuKNlsFw",
+  "value": "text",
+  "values": {
+    "Content": "() => { return aptugo.store.getState().application.tables.find(table => table.unique_id === \"kkX37RFl\").singleName + \" list\" }"
+  }
+}

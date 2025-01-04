@@ -1,0 +1,35 @@
+{
+  "_id": "GVAnR4GwmR9iQdfd",
+  "createdAt": 1736024760330,
+  "modifiedAt": 1736028154862,
+  "lastBuild": 1736028154860,
+  "settings": {
+    "name": "elgarage",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "elgarage",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://elgaragelite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/elgarage"
+    },
+    "stagging": {
+      "apiURL": "https://elgaragelite.aptugo.app",
+      "type": "Local",
+      "folder": "elgarage_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://elgaragelite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/elgarage"
+    },
+    "production": {
+      "apiURL": "https://elgaragelite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "elgarage",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://elgaragelite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/elgarage"
+    }
+  }
+}

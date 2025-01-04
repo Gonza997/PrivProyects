@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Body",
+  "parent": "myVIHhNU",
+  "path": "b.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "zNnWuaDh",
+  "value": "b",
+  "values": {
+    "primaryColor": "blue",
+    "className": [
+      "theme.retrieveBody"
+    ]
+  }
+}

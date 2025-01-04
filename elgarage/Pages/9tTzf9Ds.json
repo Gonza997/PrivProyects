@@ -1,0 +1,18 @@
+{
+  "backColor": "rgba(6, 201, 210, 0.25)",
+  "cascades": false,
+  "color": "rgb(0,230,230)",
+  "double": true,
+  "name": "div",
+  "order": 1,
+  "parent": "EeSQRT1L",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "9tTzf9Ds",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}

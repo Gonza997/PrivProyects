@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "t6pSzvFe",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "6DCzO3sJ",
+  "value": "text",
+  "values": {
+    "Content": "If you requested a password reset, use the link below to complete the process. If you didn't make this request, ignore this email.\n"
+  }
+}

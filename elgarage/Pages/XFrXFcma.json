@@ -1,0 +1,10 @@
+{
+  "cascades": false,
+  "name": "From Link (with nonce)",
+  "parent": "6i0p3VoI",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "XFrXFcma",
+  "value": "dummyEncloser"
+}

@@ -1,0 +1,21 @@
+{
+  "cascades": false,
+  "name": "bringFirstData",
+  "order": 1000,
+  "parent": "0k6db5LI",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "ServerAddenum",
+      "value": "{% if element.values.serverSide %}\n{% if element.values.comment %}\n  /**\n  {{ element.values.comment }}\n  */\n{% endif %}\nglobal.{{ element.values.functionName }} = {% if element.values.async%}async {% endif %}({{ element.values.functionParameters }}) => {\n  {{ element.values.functionBody | raw }}\n  {{ content | raw }}  \n}\n{% endif %}"
+    }
+  ],
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "ZJ68Kki3",
+  "value": "function",
+  "values": {
+    "functionName": "bringFirstData"
+  }
+}

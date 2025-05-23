@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "CountUp",
+  "parent": "x7LiMFTd",
+  "path": "CountUp.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "0z3tRIcD",
+  "value": "CountUp",
+  "values": {
+    "start": "0",
+    "end": "item.Contador",
+    "duration": "10",
+    "delay": "4",
+    "separator": ".",
+    "className": "theme.countUpTheme"
+  }
+}

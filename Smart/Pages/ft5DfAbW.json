@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Tags Flex Bottom",
+  "parent": "sWswAH9L",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ft5DfAbW",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.popupNewsTagsFlexBottom"
+  }
+}

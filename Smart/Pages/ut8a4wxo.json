@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "17WLOTfU",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ut8a4wxo",
+  "value": "text",
+  "values": {
+    "Content": "{testimonial.Testimonio} <span>”</span> "
+  }
+}

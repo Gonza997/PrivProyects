@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink Logo",
+  "parent": "s9lN8JyD",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "yTw3ryn2",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "NavLink",
+    "destination": "/",
+    "Action": "scrollToBanner"
+  }
+}

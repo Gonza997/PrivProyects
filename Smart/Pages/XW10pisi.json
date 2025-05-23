@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "usersData",
+  "parent": "SKWBvgXg",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "XW10pisi",
+  "value": "useState",
+  "values": {
+    "variableName": "usersData",
+    "defaultValue": "{\nerrField: null,\nerrMessage: null\n}"
+  }
+}

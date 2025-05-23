@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "JsQ7TMxr",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "BtTmqa2D",
+  "value": "text",
+  "values": {
+    "Content": "Con orgullo trabajamos con clientes líderes en sus sectores."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "code",
+  "parent": "sS8itBpG",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hGo8NyLK",
+  "value": "code",
+  "values": {
+    "code": "if (params.nonce) {\n      AuthService.checkNonce(params.nonce, params.email).then(\n        (res) => {\n          authHeaders()\n          setuserData({ ...userData, _id: res })\n        },\n        (error) => {\n          console.error(error)\n        }\n      )\n    }"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "login",
+  "parent": "Ov1WJusk",
+  "path": "login.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "oCFsLSxL",
+  "value": "login",
+  "values": {
+    "Email": "loginData.Email",
+    "Password": "loginData.Password",
+    "OnSuccess": "wynZXVfo"
+  }
+}

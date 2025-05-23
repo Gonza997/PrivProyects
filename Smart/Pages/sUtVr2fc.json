@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "skip dataNewsSection",
+  "parent": "mbSxK4v0",
+  "path": "skip.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "sUtVr2fc",
+  "value": "skip",
+  "values": {}
+}

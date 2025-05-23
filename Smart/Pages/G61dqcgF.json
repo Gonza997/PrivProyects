@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "eLwL4EpZ",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "G61dqcgF",
+  "value": "text",
+  "values": {
+    "Content": "{event.year}"
+  }
+}

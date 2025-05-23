@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "onPageLoad",
+  "parent": "66pKMCJA",
+  "path": "onPageLoad.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "eWh9XtG7",
+  "value": "onPageLoad",
+  "values": {
+    "useEffectBody": "if (window.innerWidth <= 768) {\r\n    setcardsToShow(4)\r\n} else if (window.innerWidth  >=768 && window.innerWidth <= 1366) {\r\n    setcardsToShow(6)\r\n} else if (window.innerWidth > 1366){\r\n    setcardsToShow(8)\r\n}"
+  }
+}

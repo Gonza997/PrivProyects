@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "CajaLogin",
+  "parent": "h8cbPDrp",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "XEuNTh42",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.cajaLogin"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "cascades": false,
+  "name": "Email Content",
+  "parent": "6EqXTMfS",
+  "path": "emailContent.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Iyx3uyT3",
+  "value": "emailContent"
+}

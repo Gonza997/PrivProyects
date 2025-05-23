@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "PeqNetnb",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "QlSzGk6H",
+  "value": "text",
+  "values": {
+    "Content": "Click here to reset your password"
+  }
+}

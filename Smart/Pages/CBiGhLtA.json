@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "IconButton",
+  "parent": "D459HCpb",
+  "path": "IconButton.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "CBiGhLtA",
+  "value": "IconButton",
+  "values": {
+    "className": "theme.profilePicture",
+    "Action": "(event) => { setprofileMenuAnchor(event.currentTarget) }"
+  }
+}

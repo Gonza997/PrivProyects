@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "userEmail",
+  "parent": "zRVEJbTQ",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3oVNbcsd",
+  "value": "useState",
+  "values": {
+    "variableName": "userEmail",
+    "defaultValue": "''"
+  }
+}

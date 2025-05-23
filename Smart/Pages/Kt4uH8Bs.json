@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Topbar Desktop",
+  "parent": "s9lN8JyD",
+  "path": "hide.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Kt4uH8Bs",
+  "value": "hide",
+  "values": {
+    "hidevalue": "mdDown"
+  }
+}

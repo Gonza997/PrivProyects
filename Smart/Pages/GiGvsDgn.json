@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Load from Database",
+  "parent": "SO8B2uDm",
+  "path": "loadFromRedux.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GiGvsDgn",
+  "value": "loadFromRedux",
+  "values": {
+    "elementsLimit": "25",
+    "defaultPage": "1",
+    "data": "8QzrG560",
+    "variableName": "bannerVideo"
+  }
+}

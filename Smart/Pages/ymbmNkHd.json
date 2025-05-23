@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "nRFRseS3",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ymbmNkHd",
+  "value": "text",
+  "values": {
+    "Content": "Unite a nuestro equipo"
+  }
+}

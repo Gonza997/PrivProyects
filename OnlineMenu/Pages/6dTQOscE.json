@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "handleRegister",
+  "parent": "DksMUFof",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "6dTQOscE",
+  "value": "function",
+  "values": {
+    "functionName": "handleRegister",
+    "functionBody": "const data = { ...Usersdata, Role: 'User' }"
+  }
+}

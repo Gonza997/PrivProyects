@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "for Animation Texts",
+  "parent": "ouSKGsCr",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hAM5nH0x",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.forAnimation",
+    "ref": "(el) => (forAnimationRef.current[2] = el)"
+  }
+}

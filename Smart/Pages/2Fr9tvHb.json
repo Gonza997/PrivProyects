@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "Pagination",
+  "parent": "NaIizcmI",
+  "path": "Pagination.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "2Fr9tvHb",
+  "value": "Pagination",
+  "values": {
+    "count": "Math.ceil(vacantesData.totalDocs / cardsToShow)",
+    "onChange": "(e, page) => { setcurrentPage(page - 1) }",
+    "color": "standard",
+    "variant": "text",
+    "shape": "circular",
+    "size": "medium"
+  }
+}

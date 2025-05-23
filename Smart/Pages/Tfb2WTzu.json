@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Location",
+  "parent": "TImZhyhu",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Tfb2WTzu",
+  "value": "text",
+  "values": {
+    "Content": "{dataNewsSection.Lugar}"
+  }
+}

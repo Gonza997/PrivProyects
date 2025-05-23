@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "code function ClosePopup 2hs",
+  "parent": "mbSxK4v0",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Eg1KQvWV",
+  "value": "code",
+  "values": {
+    "code": " // Función para verificar si deben pasar 2 horas antes de volver a mostrar el pop-up\n  const shouldShowPopUp = () => {\n    const lastClosed = localStorage.getItem('popUpLastClosed');\n    if (!lastClosed) {\n      return true; // Mostrar el pop-up si no hay registro previo\n    }\n    const now = new Date().getTime();\n    const lastClosedTime = parseInt(lastClosed, 10);\n    const timeDifference = now - lastClosedTime;\n    const twoHours = 7200000; // 2 horas en milisegundos\n    return timeDifference > twoHours; // Mostrar solo si pasaron más de 2 horas\n  };\n\n  // Función para guardar el tiempo cuando se cierra el pop-up\n  const closePopUp = () => {\n    const now = new Date().getTime();\n    localStorage.setItem('popUpLastClosed', now.toString());\n    setpopupNews(false);\n  };\n    // useEffect para verificar si mostrar el pop-up automáticamente\n    React.useEffect(() => {\n      const isDataEmpty = Object.keys(dataNewsSection).length === 0;\n      if (!isDataEmpty && shouldShowPopUp()) {\n        setpopupNews(true);\n      }\n    }, [dataNewsSection]);\n\n\n  // Función para reabrir el pop-up manualmente desde el botón\n  const handleManualOpen = () => {\n    setpopupNews(true);\n  };"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "a7aVzJvl",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "eQVeUIl8",
+  "value": "text",
+  "values": {
+    "Content": "SOMOS"
+  }
+}

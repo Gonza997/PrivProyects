@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "timeline",
+  "parent": "STIA7l0N",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "5sG6urn7",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.timeline",
+    "ref": "timelineRef"
+  }
+}

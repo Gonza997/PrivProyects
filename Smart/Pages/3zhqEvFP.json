@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Contáctanos",
+  "parent": "T9Q2yDoC",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3zhqEvFP",
+  "value": "div",
+  "values": {
+    "class": "theme.contactanos"
+  }
+}

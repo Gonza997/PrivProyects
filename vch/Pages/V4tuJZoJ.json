@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "5NQ4Mbgp",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "V4tuJZoJ",
+  "value": "text",
+  "values": {
+    "Content": "<li>Si lo desean, pueden llevar su calzado para las pruebas.</li>"
+  }
+}

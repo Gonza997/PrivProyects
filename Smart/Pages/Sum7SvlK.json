@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Area",
+  "parent": "2BCOCTOk",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Sum7SvlK",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.area"
+  }
+}

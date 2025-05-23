@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Our Cients",
+  "parent": "x7Imy7Bp",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "0Vy2nlm9",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.clients"
+  }
+}

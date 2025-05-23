@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Puesto",
+  "parent": "2BCOCTOk",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "JtzVzSnB",
+  "value": "typography",
+  "values": {
+    "tag": "subtitle1"
+  }
+}

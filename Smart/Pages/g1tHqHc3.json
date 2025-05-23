@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Topbar Responsive",
+  "parent": "IF2C348p",
+  "path": "hide.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "g1tHqHc3",
+  "value": "hide",
+  "values": {
+    "hidevalue": "mdUp"
+  }
+}

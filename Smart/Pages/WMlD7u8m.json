@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "cardsToShow",
+  "parent": "66pKMCJA",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "WMlD7u8m",
+  "value": "useState",
+  "values": {
+    "variableName": "cardsToShow",
+    "defaultValue": "6"
+  }
+}

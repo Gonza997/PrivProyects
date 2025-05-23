@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "button",
+  "parent": "J0QUT9FT",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "lE1sTT1h",
+  "value": "button",
+  "values": {
+    "ButtonText": "Contacto",
+    "Color": "primary",
+    "Variant": "contained",
+    "Action": "setpopupContact(true)"
+  }
+}

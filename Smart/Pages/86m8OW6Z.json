@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "kgt3Afvf",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "86m8OW6Z",
+  "value": "text",
+  "values": {
+    "Content": "Historial de atenciones"
+  }
+}

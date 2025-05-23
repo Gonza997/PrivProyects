@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Nuestra historia",
+  "parent": "aMeehhun",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "NRSuevKT",
+  "value": "text",
+  "values": {
+    "Content": "Nuestra historia"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "Kiz1Nr9Q",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "WPbSAD6y",
+  "value": "text",
+  "values": {
+    "Content": "Filosofía"
+  }
+}

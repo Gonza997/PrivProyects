@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Load from Database",
+  "parent": "PvpchF0q",
+  "path": "loadFromRedux.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "WynHfORG",
+  "value": "loadFromRedux",
+  "values": {
+    "elementsLimit": "25",
+    "defaultPage": "1",
+    "data": "8QzrG560",
+    "variableName": "sectHeroImage"
+  }
+}

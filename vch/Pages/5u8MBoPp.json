@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "usDTTe1z",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "5u8MBoPp",
+  "value": "text",
+  "values": {
+    "Content": "Requisitos"
+  }
+}

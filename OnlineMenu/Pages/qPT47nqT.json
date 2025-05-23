@@ -1,0 +1,10 @@
+{
+  "cascades": false,
+  "name": "Email Content",
+  "parent": "J2RLBUIg",
+  "path": "emailContent.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qPT47nqT",
+  "value": "emailContent"
+}

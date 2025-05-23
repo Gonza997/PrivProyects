@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "saveNewPassword",
+  "parent": "irpb5Nnb",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "IxIlFxZn",
+  "value": "function",
+  "values": {
+    "functionName": "saveNewPassword",
+    "functionBody": "const data = { ...userData }"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "DzJ17IMZ",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ap8ekThf",
+  "value": "text",
+  "values": {
+    "Content": "Visión"
+  }
+}

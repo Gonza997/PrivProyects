@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "4X7rFKQO",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GHslXTp6",
+  "value": "text",
+  "values": {
+    "Content": "Alquiler y Venta de Vestidos"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "code",
+  "parent": "EsgUDrR3",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "FyMmfKnL",
+  "value": "code",
+  "values": {
+    "code": "const isDataEmpty = Object.keys(dataNewsSection).length === 0\r\nif (!isDataEmpty) {\r\n    setpopupNews(true)\r\n}"
+  }
+}

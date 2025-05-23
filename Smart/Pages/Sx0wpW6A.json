@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Impacto",
+  "parent": "W9IlWVyh",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Sx0wpW6A",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/impacto",
+    "target": "_top"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Mission",
+  "parent": "s0LKhigx",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "K79eNUAG",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.column"
+  }
+}

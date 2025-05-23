@@ -1,0 +1,25 @@
+// Empty Stylesheet
+.pages {
+  .mainarea {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+
+      .principalImage {
+        height: 20vh;
+        object-fit: contain;
+      }
+
+      .topMenuAndLogo {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+      }
+    }
+  }
+}

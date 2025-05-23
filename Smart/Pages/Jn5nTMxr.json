@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "<TopBar />",
+  "parent": "OWsPmCbM",
+  "path": "component.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Jn5nTMxr",
+  "value": "component",
+  "values": {
+    "name": "TopBar",
+    "props": "setpopupContact, isSticky, scrollToServices, scrollToUs, scrollToSubsidiaries, scrollToRRHH, scrollToBanner"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "Q5aomKO0",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "OapIbhCS",
+  "value": "text",
+  "values": {
+    "Content": "Terminos y Condiciones"
+  }
+}

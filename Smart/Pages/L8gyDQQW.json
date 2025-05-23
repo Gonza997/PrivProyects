@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Register Error",
+  "parent": "SKWBvgXg",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "L8gyDQQW",
+  "value": "useState",
+  "values": {
+    "variableName": "registerError",
+    "defaultValue": "null"
+  }
+}

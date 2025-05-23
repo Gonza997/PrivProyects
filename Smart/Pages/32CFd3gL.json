@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "MenuLogin",
+  "parent": "W9IlWVyh",
+  "path": "Menu.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "32CFd3gL",
+  "value": "Menu",
+  "values": {
+    "positionVertical": "top",
+    "positionHorizontal": "center",
+    "anchorElement": "MenuLogin",
+    "onClose": "setMenuLogin(null)",
+    "className": "theme.menuRegistLogin"
+  }
+}

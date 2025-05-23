@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Puestos vacantes ",
+  "parent": "2BCOCTOk",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qdUmJSJ7",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.vacancies"
+  }
+}

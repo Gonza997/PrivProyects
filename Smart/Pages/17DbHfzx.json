@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "typography",
+  "parent": "Sum7SvlK",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "17DbHfzx",
+  "value": "typography",
+  "values": {
+    "tag": "overline"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "WhatsApp component",
+  "parent": "DD4asoWx",
+  "path": "component.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ZPNo4kGL",
+  "value": "component",
+  "values": {
+    "name": "WhatsApp"
+  }
+}

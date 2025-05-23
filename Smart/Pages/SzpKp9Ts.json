@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "cardsContainer",
+  "parent": "tk06WNtM",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "SzpKp9Ts",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.cardsContainer"
+  }
+}

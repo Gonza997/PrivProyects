@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Grid",
+  "parent": "VpeCIfoV",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "s0LKhigx",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.grid"
+  }
+}

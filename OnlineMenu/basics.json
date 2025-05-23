@@ -1,0 +1,36 @@
+{
+  "_id": "pRlepAmIBRQqNHWk",
+  "createdAt": 1743346451749,
+  "modifiedAt": 1743350667115,
+  "lastBuild": 1743350667107,
+  "settings": {
+    "name": "OnlineMenu",
+    "lastSaved": null,
+    "lastBuild": null,
+    "language": "en",
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "OnlineMenu",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://onlinemenulite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/onlinemenu"
+    },
+    "stagging": {
+      "apiURL": "https://onlinemenulite.aptugo.app",
+      "type": "Local",
+      "folder": "OnlineMenu_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://onlinemenulite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/onlinemenu"
+    },
+    "production": {
+      "apiURL": "https://onlinemenulite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "OnlineMenu",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://onlinemenulite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/onlinemenu"
+    }
+  }
+}

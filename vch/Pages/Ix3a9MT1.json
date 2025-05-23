@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div Whatsapp",
+  "parent": "DgnTu35m",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Ix3a9MT1",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.whatsapp"
+  }
+}

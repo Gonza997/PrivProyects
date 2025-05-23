@@ -1,0 +1,20 @@
+[
+  {
+    "type": "stylesheet",
+    "id": "4zutzV9W",
+    "name": "topfoot.module.scss",
+    "errored": true
+  },
+  {
+    "type": "stylesheet",
+    "id": "3NIPw4ZI",
+    "name": "variables.module.scss",
+    "errored": true
+  },
+  {
+    "type": "stylesheet",
+    "id": "KoAhL3O0",
+    "name": "mixins.module.scss",
+    "errored": true
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Recover Error!",
+  "parent": "iLs70VU6",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "9odeebfQ",
+  "value": "condition",
+  "values": {
+    "condition": "recoverError"
+  }
+}

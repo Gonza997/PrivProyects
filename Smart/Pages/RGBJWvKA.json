@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "MaterialIcon",
+  "parent": "wWWEO4Bb",
+  "path": "MaterialIcon.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "RGBJWvKA",
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "PlaceRounded"
+  }
+}

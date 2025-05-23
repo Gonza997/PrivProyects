@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Titles",
+  "parent": "tk06WNtM",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "64DMrEF3",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.titles"
+  }
+}

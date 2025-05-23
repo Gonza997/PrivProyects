@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "YesIcon",
+  "parent": "aruhwpuB",
+  "path": "YesIcon.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3GMlQa7U",
+  "value": "YesIcon",
+  "values": {
+    "icon": "material-symbols:mountain-flag-rounded"
+  }
+}

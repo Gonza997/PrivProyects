@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "o2HHOSoF",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "2BCOCTOk",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.gralDescription"
+  }
+}

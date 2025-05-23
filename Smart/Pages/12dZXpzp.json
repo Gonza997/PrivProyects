@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Login Error",
+  "parent": "q3y2uQFB",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "12dZXpzp",
+  "value": "useState",
+  "values": {
+    "variableName": "loginError",
+    "defaultValue": "null"
+  }
+}

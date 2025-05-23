@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "76iORIGu",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "CCN4Iq2P",
+  "value": "image",
+  "values": {
+    "path": "/img/${testimonial.Imagen}",
+    "draggable": true
+  }
+}

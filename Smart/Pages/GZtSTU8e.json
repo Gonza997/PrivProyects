@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "5ndp3fuu",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GZtSTU8e",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/",
+    "tagToUse": "NavLink",
+    "target": "_top",
+    "Action": "scrollToBanner"
+  }
+}

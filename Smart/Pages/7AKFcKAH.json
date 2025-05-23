@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Logout",
+  "parent": "XTyfMpMb",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "7AKFcKAH",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.logoutButton",
+    "onclick": "logout()"
+  }
+}

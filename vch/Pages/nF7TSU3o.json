@@ -1,0 +1,14 @@
+{
+  "cascades": true,
+  "name": "Footer",
+  "order": 1000,
+  "parent": "KMviFwRl",
+  "path": "useComponent.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "nF7TSU3o",
+  "value": "useComponent",
+  "values": {
+    "name": "Footer"
+  }
+}

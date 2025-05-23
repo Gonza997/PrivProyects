@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "currentPage",
+  "parent": "66pKMCJA",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "V79AnZlw",
+  "value": "useState",
+  "values": {
+    "variableName": "currentPage",
+    "defaultValue": "0"
+  }
+}

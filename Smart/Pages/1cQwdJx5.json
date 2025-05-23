@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Date",
+  "parent": "NSWdD3Is",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "1cQwdJx5",
+  "value": "text",
+  "values": {
+    "Content": "{dataNewsSection.Fecha}"
+  }
+}

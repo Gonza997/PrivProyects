@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "TimelineEvent",
+  "parent": "anPg0w2T",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "AWkCFrGx",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "`${theme.timelineEvent} ${eventClass}`",
+    "key": "`umV8IfMS_${index}`"
+  }
+}

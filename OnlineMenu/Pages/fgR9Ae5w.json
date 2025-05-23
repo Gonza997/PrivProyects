@@ -1,0 +1,16 @@
+{
+  "cascades": true,
+  "name": "navbar",
+  "parent": "DExSyotE",
+  "path": "navbar.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "fgR9Ae5w",
+  "value": "navbar",
+  "values": {
+    "Title": "",
+    "Color": "transparent",
+    "Position": "absolute",
+    "Elevation": "3"
+  }
+}

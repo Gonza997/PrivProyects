@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "watchVariable",
+  "parent": "mWgo29B2",
+  "path": "watchVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "SfvtcxkI",
+  "value": "watchVariable",
+  "values": {
+    "watchVariable": "theme"
+  }
+}

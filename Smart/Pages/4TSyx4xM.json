@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "sectionRight",
+  "parent": "GXi3fhQz",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "4TSyx4xM",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.sectionRight"
+  }
+}

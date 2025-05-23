@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "btv7MJxT",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "7v0vNUTK",
+  "value": "text",
+  "values": {
+    "Content": "Ser referentes en innovación y excelencia operativa en nuestras áreas de negocio, expandiendo nuestra presencia en mercados nacionales e internacionales."
+  }
+}

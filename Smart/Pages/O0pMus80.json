@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "GvNGw4QL",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "O0pMus80",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.divBannerVideo"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "usersData",
+  "parent": "DksMUFof",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "OzL6RBJD",
+  "value": "useState",
+  "values": {
+    "variableName": "usersData",
+    "defaultValue": "{\nerrField: null,\nerrMessage: null\n}"
+  }
+}

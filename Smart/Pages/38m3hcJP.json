@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "code",
+  "parent": "SfvtcxkI",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "38m3hcJP",
+  "value": "code",
+  "values": {
+    "code": "  const observer = new IntersectionObserver(\r\n      (entries) => {\r\n        entries.forEach((entry) => {\r\n          const target = entry.target as HTMLElement\r\n          if (entry.isIntersecting) {\r\n            target.classList.add(theme.animate)\r\n          } else {\r\n            target.classList.remove(theme.animate)\r\n          }\r\n        })\r\n      },\r\n      { threshold: 0.1 }\r\n    )\r\n\r\n    forAnimationRef.current.forEach((column) => {\r\n      if (column) {\r\n        observer.observe(column)\r\n      }\r\n    })\r\n\r\n    return () => {\r\n      observer.disconnect()\r\n    }"
+  }
+}

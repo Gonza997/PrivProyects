@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Login Data",
+  "parent": "q3y2uQFB",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ovVFmkdh",
+  "value": "useState",
+  "values": {
+    "variableName": "loginData",
+    "defaultValue": "{\n  Email: '',\n  Password: '',\n  RememberMe: false\n}"
+  }
+}

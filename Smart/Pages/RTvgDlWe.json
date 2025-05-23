@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "4CE8G9vG",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "RTvgDlWe",
+  "value": "text",
+  "values": {
+    "Content": "RRHH"
+  }
+}

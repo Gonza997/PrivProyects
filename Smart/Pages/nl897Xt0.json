@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Servicios",
+  "parent": "W9IlWVyh",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "nl897Xt0",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/servicios",
+    "target": "_top"
+  }
+}

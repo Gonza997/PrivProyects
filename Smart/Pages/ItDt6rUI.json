@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "Sucursales",
+  "parent": "CX2Dgn7R",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ItDt6rUI",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/",
+    "target": "_top",
+    "activeClassName": "theme.linkSelected",
+    "tagToUse": "NavLink",
+    "Action": "scrollToSubsidiaries"
+  }
+}

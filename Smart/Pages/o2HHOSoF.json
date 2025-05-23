@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Every card",
+  "parent": "9WHkXATO",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "o2HHOSoF",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "`${theme.everyCard} ${vacancies[index]?.PuestosDisponibles === 0 || !vacancies[index]?.PuestosDisponibles ? theme.disabled : ''}`",
+    "onclick": "{handleCardClick(vacancy)}"
+  }
+}

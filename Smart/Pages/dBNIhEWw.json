@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "WVACrUok",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "dBNIhEWw",
+  "value": "text",
+  "values": {
+    "Content": "Consultá nuestras búsquedas activas"
+  }
+}

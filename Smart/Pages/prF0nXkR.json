@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "Load from Database dataNewsSection",
+  "parent": "mbSxK4v0",
+  "path": "loadFromRedux.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "prF0nXkR",
+  "value": "loadFromRedux",
+  "values": {
+    "elementsLimit": "25",
+    "defaultPage": "1",
+    "data": "KAoQ57dV",
+    "variableName": "dataNewsSection",
+    "singleResult": true
+  }
+}

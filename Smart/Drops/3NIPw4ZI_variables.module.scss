@@ -1,0 +1,94 @@
+// Asset created by Aptugo
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Outfit&family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+// Variables
+$font-family-secondary: 'Outfit', sans-serif;
+$Sarabun: 'Sarabun';
+$fountain-dark: #008983;
+$white: #ffffff;
+
+// Colors
+$font-family: 'Sarabun', sans-serif;
+$FountainDark: #008983;
+$FountainLight: #add9d7;
+$Fountain: #59b1ad;
+$NeutralBlack: #121212;
+$DarkGrey: #454545;
+$Cerulean: #00687b;
+$TealBlue: #2a8292;
+$MoonstoneBlue: #46a8b9;
+$PetrolDark: #00687b;
+$PetrolLight: #98c5cd;
+$GrisMedioLight: #ababab;
+$NeutrosDarkGrey: #252b30;
+$Black: #000000;
+$SecundarioPetrol: #4e95a2;
+$Secundario-Petrol-dark: #00687b;
+$Secundario-Petrol-light: #98c5cd;
+$Neutro-White: #fff;
+$Secundarios-Acento-Blanco-Puro: #fff;
+$Primario-Fountain-light: #add9d7;
+$Primario-Fountain-light-2: #dfeaec;
+$Primario-Fountain-dark: #008983;
+$terciarios-Bittersweet-shimmer: #c65353;
+$Terciario-Green-true: #2a9248;
+
+//BrakPoints
+$breakTablet: 920px;
+$breakMobile: 430px;
+
+//fenix
+$back-purple: rgb(95, 89, 163);
+$purple: #5f59a4;
+$dark-purple: #4b3b98;
+$purple-blue: #3b4992;
+$purple-light: #9787bf;
+$magenta: #e6606b;
+$pink: #f08891;
+$blue: #1b80c0;
+$light-blue: #3dbdd9;
+$maize: #f2ca4e;
+$bone-white: #faf9f9;
+$white: #ffffff;
+$grey: #9ca3a9;
+$light-grey: #e2e8ed;
+$dark-grey: #252b30;
+$light-black: rgba(0, 0, 0, 0.15);
+$soft-black: rgba(0, 0, 0, 0.25);
+$hard-black: #00000075;
+
+// Borders
+$border-bottom: 0 0 10px 10px;
+$border-solid-ultra-lightgrey: 1px solid #e2e2e2;
+$border-solid-lightgrey: 1px solid $light-grey;
+$border-solid-two-lightgrey: 2px solid $light-grey;
+
+// BackgroundImages
+$background-img-login: '/img/backgroundLogin.png';
+
+// Shadows
+$hard-shadow: 1px 0px 23px $hard-black;
+$topbar-shadow: linear-gradient(180deg, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0) 100%);
+$popup-shadow: 4px 4px 16px 0px rgba(0, 0, 0, 0.25);
+
+// Gradients
+$gradient-light-blue-to-white: linear-gradient(180deg, #4698cc 73.64%, rgba(42, 116, 163, 0) 84.84%);
+$gradient-bone-to-purple: linear-gradient(180deg, rgba(25, 19, 50, 0) 15.49%, #5f59a4 15.5%);
+$gradient-purple-to-light-blue: linear-gradient(180deg, rgba(95, 89, 164, 0) 3.54%, #5f59a4 16.55%, #4597cb 93.91%);
+$gradient-Purple-to-pink: linear-gradient(
+  90deg,
+  #4b3b98 1.13%,
+  #4b3b98 10.18%,
+  #664294 13.22%,
+  #8d4d8e 18.43%,
+  #ae5689 24%,
+  #ca5e85 29.92%,
+  #df6482 36.32%,
+  #ee6880 43.45%,
+  #f66a7e 51.84%,
+  #f96b7e 64.71%,
+  #4b3b98 96.08%
+);
+$Gradient-Petrol-to-Fountain-Diag: linear-gradient(267deg, #058081 16.21%, #00687b 90.74%);

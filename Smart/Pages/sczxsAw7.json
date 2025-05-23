@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Footer",
+  "parent": "yLaPts3p",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "sczxsAw7",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.footer"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "R0MQyNDL",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "4q92hHNv",
+  "value": "text",
+  "values": {
+    "Content": "TRABAJÁ CON NOSOTROS",
+    "className": ""
+  }
+}

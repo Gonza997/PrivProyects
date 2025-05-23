@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "XM1fBBAO",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "MP8gCbNG",
+  "value": "simpleLink",
+  "values": {
+    "target": "_self",
+    "destination": "/encontranos",
+    "tagToUse": "A"
+  }
+}

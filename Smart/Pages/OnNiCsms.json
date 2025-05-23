@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Testimonials Section",
+  "parent": "ZHO86pa0",
+  "path": "component.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "OnNiCsms",
+  "value": "component",
+  "values": {
+    "name": "TestimonialsSection",
+    "props": "testimonials"
+  }
+}

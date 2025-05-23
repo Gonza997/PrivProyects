@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "user.profilePic ",
+  "parent": "5e3Qpe5H",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "zJOmuVEc",
+  "value": "condition",
+  "values": {
+    "condition": "user.profilePic "
+  }
+}

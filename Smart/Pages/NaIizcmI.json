@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "pagination",
+  "parent": "tk06WNtM",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "NaIizcmI",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.pagination"
+  }
+}

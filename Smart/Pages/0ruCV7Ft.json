@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "parallax",
+  "parent": "OuEXAvTh",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "0ruCV7Ft",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.parallax"
+  }
+}

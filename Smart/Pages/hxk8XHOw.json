@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "JZ97z6WV",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hxk8XHOw",
+  "value": "text",
+  "values": {
+    "Content": "Proveer soluciones integrales en los sectores de transporte, forestal y ferroviario, potenciando la capacidad y calidad de acción de nuestros clientes."
+  }
+}

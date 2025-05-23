@@ -1,0 +1,13 @@
+{
+  "cascades": true,
+  "name": "checkIfLoggedIn",
+  "parent": "wqGQT8VD",
+  "path": "checkIfLoggedIn.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "0mvlRM7a",
+  "value": "checkIfLoggedIn",
+  "values": {
+    "loginScreenNot": "TTwCOmwC"
+  }
+}

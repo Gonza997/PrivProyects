@@ -1,0 +1,13 @@
+{
+  "cascades": true,
+  "name": "condition",
+  "parent": "ZAbUOhym",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "0UrvERV0",
+  "value": "condition",
+  "values": {
+    "condition": "currentUser"
+  }
+}

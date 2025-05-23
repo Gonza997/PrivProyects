@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "7knQvpa2",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "THQ2Pvq0",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "onclick": "setopenHamburguer(true)"
+  }
+}

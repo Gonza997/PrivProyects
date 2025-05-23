@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "skip Carousel old",
+  "parent": "X1gScaZD",
+  "path": "skip.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Fs0va345",
+  "value": "skip",
+  "values": {}
+}

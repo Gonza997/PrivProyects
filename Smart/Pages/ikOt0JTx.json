@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "E2S6soSK",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ikOt0JTx",
+  "value": "text",
+  "values": {
+    "Content": "SERVICIOS"
+  }
+}

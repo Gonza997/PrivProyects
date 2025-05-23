@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "popupNews",
+  "parent": "mbSxK4v0",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TfQy3zOx",
+  "value": "useState",
+  "values": {
+    "variableName": "popupNews",
+    "defaultValue": "false"
+  }
+}

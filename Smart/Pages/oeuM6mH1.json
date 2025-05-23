@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "loop sectionCountUp",
+  "parent": "KH67svMQ",
+  "path": "loop.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "oeuM6mH1",
+  "value": "loop",
+  "values": {
+    "variablename": "item",
+    "indexName": "index",
+    "variable": "sectionCountUp"
+  }
+}

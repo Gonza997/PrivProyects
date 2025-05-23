@@ -1,0 +1,15 @@
+{
+  "cascades": true,
+  "name": "Body",
+  "parent": "TTwCOmwC",
+  "path": "b.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "zBiEx34n",
+  "value": "b",
+  "values": {
+    "className": [
+      "theme.pages"
+    ]
+  }
+}

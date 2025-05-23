@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "useRef forAnimationRef",
+  "parent": "mWgo29B2",
+  "path": "useRef.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "m9Rgeghd",
+  "value": "useRef",
+  "values": {
+    "variableName": "forAnimationRef",
+    "defaultValue": "[]"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "useComponent",
+  "order": 1000,
+  "parent": "zBiEx34n",
+  "path": "useComponent.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "bTDs8an9",
+  "value": "useComponent",
+  "values": {
+    "name": "TopBar"
+  }
+}

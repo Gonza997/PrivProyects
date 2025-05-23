@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Card",
+  "parent": "fBFQXiBZ",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GXi3fhQz",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.card"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "TnUMoHby",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GC7IzTRh",
+  "value": "text",
+  "values": {
+    "Content": "<li>Se recomienda asistir sin maquillaje para evitar manchas en los vestidos.</li>"
+  }
+}

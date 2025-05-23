@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "themeSelection",
+  "parent": "PvpchF0q",
+  "path": "themeSelection.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "y1RDATJ2",
+  "value": "themeSelection",
+  "values": {
+    "useAsset": "fTwqTB8k",
+    "theme": "minimum"
+  }
+}

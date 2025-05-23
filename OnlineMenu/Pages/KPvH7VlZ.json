@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "VVVOTXnO",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "KPvH7VlZ",
+  "value": "text",
+  "values": {
+    "Content": "Forgot password?"
+  }
+}

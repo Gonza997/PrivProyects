@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "gN4LyGqx",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "VPwtDmUX",
+  "value": "text",
+  "values": {
+    "Content": "Terapeutas"
+  }
+}

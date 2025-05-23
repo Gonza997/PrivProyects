@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Our Clients Section",
+  "parent": "ZHO86pa0",
+  "path": "component.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Pvt4MMNy",
+  "value": "component",
+  "values": {
+    "name": "OurClientsSection",
+    "props": "clients"
+  }
+}

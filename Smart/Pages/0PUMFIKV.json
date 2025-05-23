@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "vtLlqTJu",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "0PUMFIKV",
+  "value": "text",
+  "values": {
+    "Content": "Te damos la bienvenida"
+  }
+}

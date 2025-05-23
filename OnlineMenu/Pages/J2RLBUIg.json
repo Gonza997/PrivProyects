@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "email",
+  "parent": "NiP9lWKv",
+  "path": "email.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "J2RLBUIg",
+  "value": "email",
+  "values": {
+    "smpthost": "",
+    "smptport": "",
+    "smptuser": "",
+    "smptpass": "",
+    "subject": "'Recover Password'",
+    "functionName": "recoverPasswordFormat"
+  }
+}

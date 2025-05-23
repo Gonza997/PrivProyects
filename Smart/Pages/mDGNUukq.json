@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Object.keys(dataNewsSection).length !== 0",
+  "parent": "HP1ARb0L",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "mDGNUukq",
+  "value": "condition",
+  "values": {
+    "condition": "Object.keys(dataNewsSection).length !== 0"
+  }
+}

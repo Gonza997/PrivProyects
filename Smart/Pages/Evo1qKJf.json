@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Login",
+  "parent": "cJ3QoZyo",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Evo1qKJf",
+  "value": "button",
+  "values": {
+    "ButtonText": "INICIAR SESIÓN",
+    "Color": "primary",
+    "className": "theme.topbarLogin",
+    "Action": "(e) => {\n    setpopUpTB(true)\n}"
+  }
+}

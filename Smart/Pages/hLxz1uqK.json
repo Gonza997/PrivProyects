@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "skip",
+  "parent": "5ndp3fuu",
+  "path": "skip.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hLxz1uqK",
+  "value": "skip",
+  "values": {}
+}

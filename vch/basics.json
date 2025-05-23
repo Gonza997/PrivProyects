@@ -1,0 +1,36 @@
+{
+  "_id": "gtuScTv1A3tX2QbO",
+  "createdAt": 1746919879242,
+  "modifiedAt": 1747959122122,
+  "lastBuild": 1747884197839,
+  "settings": {
+    "name": "vch",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "vch",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://vchlite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/vch"
+    },
+    "stagging": {
+      "apiURL": "https://vchlite.aptugo.app",
+      "type": "Local",
+      "folder": "vch_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://vchlite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/vch"
+    },
+    "production": {
+      "apiURL": "https://vch.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "vch",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://vch.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/vch",
+      "variables": "filesFolder:/var/www/wildcards/vch.aptugo.app/img/"
+    }
+  }
+}

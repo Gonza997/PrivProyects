@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Razones Sociales",
+  "parent": "5ndp3fuu",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "P8HoFIoC",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.legals"
+  }
+}

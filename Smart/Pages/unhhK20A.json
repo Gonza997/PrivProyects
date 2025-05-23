@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "Nosotros",
+  "parent": "WkcsNcvT",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "unhhK20A",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/",
+    "target": "_self",
+    "activeClassName": "theme.linkSelected",
+    "tagToUse": "NavLink",
+    "Action": "scrollToUs"
+  }
+}

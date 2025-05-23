@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "PmTwiNMk",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8sOHn2Pd",
+  "value": "text",
+  "values": {
+    "Content": "<strong>{event.strong}</strong> {event.description}"
+  }
+}

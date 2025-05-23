@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "items 1",
+  "parent": "oeuM6mH1",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "lR38H1DI",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.items"
+  }
+}

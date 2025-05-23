@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "MaterialIcon",
+  "parent": "fxSPAk3c",
+  "path": "MaterialIcon.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Cktr4KB6",
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "ArrowForwardIosRounded"
+  }
+}

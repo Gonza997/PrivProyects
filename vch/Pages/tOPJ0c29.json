@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "updateStateVariable",
+  "parent": "HTHeLhPM",
+  "path": "updateStateVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "tOPJ0c29",
+  "value": "updateStateVariable",
+  "values": {
+    "variable": "lang",
+    "newvalue": "langStrings[localStorage.getItem('aptugolang') || 'en']"
+  }
+}

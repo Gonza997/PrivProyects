@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Trabaja con nostros",
+  "parent": "W9IlWVyh",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "OEXZNqsD",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/trabaja-con-nosotros",
+    "tagToUse": "NavLink",
+    "target": "_top"
+  }
+}

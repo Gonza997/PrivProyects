@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "MenuList",
+  "parent": "Toynz0I3",
+  "path": "MenuList.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ezFPfWkU",
+  "value": "MenuList",
+  "values": {}
+}

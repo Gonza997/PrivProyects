@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "popupNewsNovedades",
+  "parent": "MhCH0kKf",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "mbSxK4v0",
+  "value": "dummyEncloser",
+  "values": {}
+}

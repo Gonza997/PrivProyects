@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "WoWvq7IB",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "aNGFXkxz",
+  "value": "image",
+  "values": {
+    "path": "/img/${clients[index]?.Logos}",
+    "alt": "Logos de nuestros clientes",
+    "draggable": true
+  }
+}

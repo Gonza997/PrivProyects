@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "<ContactUs />",
+  "parent": "OWsPmCbM",
+  "path": "component.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "E6qbgaeE",
+  "value": "component",
+  "values": {
+    "name": "ContactUs",
+    "props": "setpopupContact"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Title Section",
+  "parent": "8TKSLpCv",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "IcIx96Zi",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.titleSection"
+  }
+}

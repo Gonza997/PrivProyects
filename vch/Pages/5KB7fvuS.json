@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "S3g0rEQg",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "5KB7fvuS",
+  "value": "simpleLink",
+  "values": {
+    "target": "_self",
+    "destination": "/requisitos",
+    "tagToUse": "A"
+  }
+}

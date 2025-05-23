@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "condition",
+  "parent": "g1tHqHc3",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "7knQvpa2",
+  "value": "condition",
+  "values": {
+    "condition": "openHamburguer"
+  }
+}

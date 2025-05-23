@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "ZbykJb0n",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DnUAXdmp",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/registro-terapeuta",
+    "tagToUse": "NavLink",
+    "target": "_self"
+  }
+}

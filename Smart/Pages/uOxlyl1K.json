@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "QlZwTMSc",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "uOxlyl1K",
+  "value": "text",
+  "values": {
+    "Content": "Que dicen de nosotros"
+  }
+}

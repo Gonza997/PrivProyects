@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Register Error",
+  "parent": "DksMUFof",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "IQLkhCEi",
+  "value": "useState",
+  "values": {
+    "variableName": "registerError",
+    "defaultValue": "null"
+  }
+}

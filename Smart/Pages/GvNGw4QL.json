@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div containerBannerVideo",
+  "parent": "meO55QdE",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GvNGw4QL",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.containerBannerVideo"
+  }
+}

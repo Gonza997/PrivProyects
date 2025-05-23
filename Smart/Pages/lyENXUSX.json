@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Fade  Percentage Section",
+  "parent": "A4nWzDzD",
+  "path": "Fade.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "lyENXUSX",
+  "value": "Fade",
+  "values": {
+    "direction": "up",
+    "triggerOnce": true,
+    "delay": "250",
+    "duration": "1000"
+  }
+}

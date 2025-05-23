@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "RRSS Row",
+  "parent": "hLxz1uqK",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "WE01TZoU",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.rrssFooter"
+  }
+}

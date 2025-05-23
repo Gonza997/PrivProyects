@@ -1,0 +1,10 @@
+{
+  "cascades": false,
+  "name": "Body",
+  "parent": "qa3cSEIt",
+  "path": "b.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "ZAbUOhym",
+  "value": "b"
+}

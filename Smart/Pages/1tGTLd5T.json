@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Close Icon",
+  "parent": "d3vLmvkb",
+  "path": "YesIcon.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "1tGTLd5T",
+  "value": "YesIcon",
+  "values": {
+    "icon": "material-symbols:close-rounded"
+  }
+}

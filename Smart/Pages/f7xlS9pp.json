@@ -1,0 +1,20 @@
+{
+  "cascades": false,
+  "name": "ReactMediaPlayer",
+  "parent": "g8f7cEvB",
+  "path": "ReactMediaPlayer.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "f7xlS9pp",
+  "value": "ReactMediaPlayer",
+  "values": {
+    "playVideoDB": "item?.Video ? `img/${item.Video}` : item?.LinkVideo ? item.LinkVideo : 'default/path'",
+    "width": "100%",
+    "height": "169",
+    "playing": true,
+    "loop": true,
+    "muted": true,
+    "onReady": "",
+    "playsinline": true
+  }
+}

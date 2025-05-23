@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "YesIcon",
+  "parent": "hAM5nH0x",
+  "path": "YesIcon.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "H6FmVEIT",
+  "value": "YesIcon",
+  "values": {
+    "icon": "material-symbols:verified-rounded"
+  }
+}

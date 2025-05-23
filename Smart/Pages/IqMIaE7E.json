@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Quote",
+  "parent": "4TSyx4xM",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "IqMIaE7E",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.quote"
+  }
+}

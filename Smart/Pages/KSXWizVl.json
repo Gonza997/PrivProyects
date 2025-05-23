@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "Contacto",
+  "parent": "WkcsNcvT",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "KSXWizVl",
+  "value": "simpleLink",
+  "values": {
+    "destination": "#",
+    "tagToUse": "NavLink",
+    "target": "_self",
+    "activeClassName": "theme.linkSelected",
+    "Action": "setpopupContact(true)"
+  }
+}

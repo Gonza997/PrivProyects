@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "alertMessage",
+  "parent": "aM9G2OQg",
+  "path": "alertMessage.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DCtXAn9i",
+  "value": "alertMessage",
+  "values": {
+    "severity": "error"
+  }
+}

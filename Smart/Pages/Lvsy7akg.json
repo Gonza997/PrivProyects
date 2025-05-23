@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "toggleMenu",
+  "parent": "7mMJCGRA",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Lvsy7akg",
+  "value": "function",
+  "values": {
+    "functionName": "toggleMenu",
+    "functionParameters": "e",
+    "functionBody": "e.preventDefault()\r\n    setisMenuOpen((prevState) => !prevState)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "Pqo7TTH5",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qfFMUCIe",
+  "value": "image",
+  "values": {
+    "className": "theme.popupNewsTagsIcons",
+    "useAsset": "77mKc3pW"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Links",
+  "parent": "hLxz1uqK",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qABGhbfF",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.footerLinks"
+  }
+}

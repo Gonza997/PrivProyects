@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Date",
+  "parent": "bnKTLXD8",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "oP0TVR4U",
+  "value": "text",
+  "values": {
+    "Content": "{dataNewsSection.Horario}"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "loop",
+  "parent": "O0pMus80",
+  "path": "loop.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "g8f7cEvB",
+  "value": "loop",
+  "values": {
+    "variablename": "item",
+    "indexName": "index",
+    "variable": "bannerVideo"
+  }
+}

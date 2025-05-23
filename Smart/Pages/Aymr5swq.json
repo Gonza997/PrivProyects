@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "All rights reserved",
+  "parent": "5ndp3fuu",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Aymr5swq",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.reserved"
+  }
+}

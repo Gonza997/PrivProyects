@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "B0HCoMbS",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "gN4LyGqx",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/login-profesionales",
+    "tagToUse": "NavLink",
+    "target": "_self"
+  }
+}

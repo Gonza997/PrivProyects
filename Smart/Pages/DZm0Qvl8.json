@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Tags Felx Location ",
+  "parent": "kviTCiFm",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DZm0Qvl8",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.popupNewsTagsFlex"
+  }
+}

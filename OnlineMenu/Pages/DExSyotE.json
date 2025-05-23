@@ -1,0 +1,13 @@
+{
+  "cascades": true,
+  "name": "condition",
+  "parent": "i5TFFHKo",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DExSyotE",
+  "value": "condition",
+  "values": {
+    "condition": "currentUser"
+  }
+}

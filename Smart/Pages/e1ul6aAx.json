@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "5JCAGOTw",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "e1ul6aAx",
+  "value": "text",
+  "values": {
+    "Content": "Puestos Vacantes   <strong>{vacancies[index]?.PuestosDisponibles}</strong>"
+  }
+}

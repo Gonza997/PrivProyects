@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "isMenuOpen",
+  "parent": "7mMJCGRA",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "lcr3RoMk",
+  "value": "useState",
+  "values": {
+    "variableName": "isMenuOpen",
+    "defaultValue": "false"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Mi cuenta",
+  "parent": "lvGGlTO1",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Q2zGmNCC",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/mi-cuenta",
+    "tagToUse": "NavLink"
+  }
+}

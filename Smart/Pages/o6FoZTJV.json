@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "p3K9TwUW",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "o6FoZTJV",
+  "value": "text",
+  "values": {
+    "Content": "Productos y Servicios"
+  }
+}

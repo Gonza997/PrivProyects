@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "loop",
+  "parent": "2QueNBe9",
+  "path": "loop.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "fBFQXiBZ",
+  "value": "loop",
+  "values": {
+    "variablename": "testimonial",
+    "indexName": "index",
+    "variable": "testimonials"
+  }
+}

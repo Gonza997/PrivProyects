@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "uPtie7K4",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "PeqNetnb",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "A",
+    "destination": "/forgot/**nonce**/**email**"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "eQgzdVeO",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "AvBx7aOH",
+  "value": "text",
+  "values": {
+    "Content": "Contacto"
+  }
+}

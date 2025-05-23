@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div carouselTitleAndButton",
+  "parent": "yMDSl3HG",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "UenNxTKJ",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.carouselTitleAndButton"
+  }
+}

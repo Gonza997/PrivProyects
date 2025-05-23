@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "7AKFcKAH",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "rxf5sPax",
+  "value": "image",
+  "values": {
+    "useAsset": "xV34VTIP"
+  }
+}

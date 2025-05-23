@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "J7N1daby",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "MigAonoA",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "A",
+    "destination": "https://www.linkedin.com/company/fenix-health-tech/?viewAsMember=true",
+    "target": "_blank"
+  }
+}

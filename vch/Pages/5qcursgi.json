@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Body",
+  "parent": "8ei8HJIR",
+  "path": "b.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "5qcursgi",
+  "value": "b",
+  "values": {
+    "className": "theme.pages"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "LlBCsI0K",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Dvr7DLAx",
+  "value": "image",
+  "values": {
+    "className": "theme.popupNewsTagsIcons",
+    "useAsset": "9SOlxEZJ",
+    "width": "13",
+    "height": "13"
+  }
+}

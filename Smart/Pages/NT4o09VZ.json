@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "7pDeG9Dm",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "NT4o09VZ",
+  "value": "text",
+  "values": {
+    "Content": "Cookies"
+  }
+}

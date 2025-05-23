@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "loginError Message",
+  "parent": "IVAA7J2z",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "AnS1OGaT",
+  "value": "condition",
+  "values": {
+    "condition": "loginError"
+  }
+}

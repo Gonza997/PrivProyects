@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "typography",
+  "parent": "LlBCsI0K",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "E4fJCeAZ",
+  "value": "typography",
+  "values": {
+    "tag": "subtitle2",
+    "className": "theme.typoFlexIcon"
+  }
+}

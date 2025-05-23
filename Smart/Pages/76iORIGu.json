@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div Image",
+  "parent": "GXi3fhQz",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "76iORIGu",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.divImage"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "nKCv8P6w",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "S5Xp1wX3",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "A",
+    "destination": "https://www.facebook.com/",
+    "target": "_blank"
+  }
+}

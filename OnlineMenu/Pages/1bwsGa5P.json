@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "uncontrolledInput",
+  "parent": "hbpJoa92",
+  "path": "uncontrolledInput.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "1bwsGa5P",
+  "value": "uncontrolledInput",
+  "values": {
+    "variant": "outlined",
+    "label": "Email",
+    "placeholder": "Email Address",
+    "margin": "normal",
+    "onChange": "(e) => { setloginData({ ...loginData, Email: e.target.value }) }",
+    "value": "{loginData.Email}"
+  }
+}

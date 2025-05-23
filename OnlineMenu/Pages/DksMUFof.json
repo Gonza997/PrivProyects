@@ -1,0 +1,10 @@
+{
+  "cascades": false,
+  "name": "Register Functionality",
+  "parent": "dzBm83By",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DksMUFof",
+  "value": "dummyEncloser"
+}

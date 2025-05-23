@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div logo",
+  "parent": "073MMJnV",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "9ndv0eND",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.logo"
+  }
+}

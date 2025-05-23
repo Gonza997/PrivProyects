@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "TVcAUiXM",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "6ZIRTH5D",
+  "value": "text",
+  "values": {
+    "Content": "Política de privacidad"
+  }
+}

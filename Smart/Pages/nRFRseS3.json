@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "typography",
+  "parent": "64DMrEF3",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "nRFRseS3",
+  "value": "typography",
+  "values": {
+    "tag": "h3"
+  }
+}

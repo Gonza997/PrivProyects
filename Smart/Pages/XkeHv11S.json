@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Mi ficha unificada",
+  "parent": "TVsEwm7p",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "XkeHv11S",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/ficha/${user.id}",
+    "tagToUse": "NavLink"
+  }
+}

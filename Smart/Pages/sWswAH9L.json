@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Tags Felx Date",
+  "parent": "kviTCiFm",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "sWswAH9L",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.popupNewsTagsFlex"
+  }
+}

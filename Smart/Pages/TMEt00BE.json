@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "JXtKviTN",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TMEt00BE",
+  "value": "text",
+  "values": {
+    "Content": " Login!",
+    "ClassName": "theme.textRegister"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "cascades": false,
+  "name": "Parallax",
+  "parent": "0ruCV7Ft",
+  "path": "Parallax.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "yJaUqPpy",
+  "value": "Parallax",
+  "values": {
+    "bgImage": "none",
+    "className": "",
+    "strength": "500",
+    "height": "100",
+    "width": "100",
+    "blurmin": "0",
+    "blurmax": "0",
+    "parentSelector": "document.getElementById('app')",
+    "path": "/img/${image[0]?.Imagen}"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "EMTHMX80VDaP3eqi",
+  "createdAt": 1732974306693,
+  "modifiedAt": 1732977565999,
+  "lastBuild": 1732977565992,
+  "settings": {
+    "name": "Smart",
+    "lastSaved": null,
+    "lastBuild": null,
+    "language": "en",
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "Smart",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://smartlite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/smart"
+    },
+    "stagging": {
+      "apiURL": "https://smartlite.aptugo.app",
+      "type": "Local",
+      "folder": "Smart_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://smartlite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/smart"
+    },
+    "production": {
+      "apiURL": "https://smartlite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "Smart",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://smartlite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/smart"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "yaecSygK",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "bvSkuU7W",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "A",
+    "destination": "https://www.instagram.com/fenixheal/",
+    "target": "_blank"
+  }
+}

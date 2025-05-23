@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "hVnttSPk",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "zhaookw2",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/login-pacientes",
+    "tagToUse": "NavLink",
+    "target": "_self"
+  }
+}

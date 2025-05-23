@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "is0tzAGV",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "BPJHRQIt",
+  "value": "text",
+  "values": {
+    "Content": "Mi ficha unificada"
+  }
+}

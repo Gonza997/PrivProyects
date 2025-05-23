@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "watchVariable",
+  "parent": "sUtVr2fc",
+  "path": "watchVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "EsgUDrR3",
+  "value": "watchVariable",
+  "values": {
+    "watchVariable": "dataNewsSection"
+  }
+}

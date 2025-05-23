@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "<Footer />",
+  "parent": "OWsPmCbM",
+  "path": "component.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "L8TVRivl",
+  "value": "component",
+  "values": {
+    "name": "Footer",
+    "props": "scrollToBanner"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "9lL359aB",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "27hyW7pA",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/terminosYCondiciones",
+    "tagToUse": "NavLink",
+    "target": "_top",
+    "Action": ""
+  }
+}

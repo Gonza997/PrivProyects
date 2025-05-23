@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div Testimonials",
+  "parent": "aGLv0ocV",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8TKSLpCv",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.testimonials"
+  }
+}

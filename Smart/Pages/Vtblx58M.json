@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "saveToRedux",
+  "parent": "c3S6bZGl",
+  "path": "saveToRedux.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Vtblx58M",
+  "value": "saveToRedux",
+  "values": {
+    "data": "KTaLJqWC"
+  }
+}

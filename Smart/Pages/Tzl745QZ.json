@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Title",
+  "parent": "ICclIZqu",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Tzl745QZ",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.numsTitle"
+  }
+}

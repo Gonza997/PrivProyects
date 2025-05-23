@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "html",
+  "parent": "76GqmTE2",
+  "path": "html.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "r4LheTX6",
+  "value": "html",
+  "values": {
+    "html": "dataNewsSection.Contenido"
+  }
+}

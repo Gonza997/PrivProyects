@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "LoQxgVgh",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "vrSQudbT",
+  "value": "text",
+  "values": {
+    "Content": "Dónde estamos"
+  }
+}

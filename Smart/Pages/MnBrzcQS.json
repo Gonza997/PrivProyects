@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Historial de atenciones",
+  "parent": "9f3JvnFt",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "MnBrzcQS",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/mis-pacientes",
+    "tagToUse": "NavLink",
+    "target": "_top"
+  }
+}

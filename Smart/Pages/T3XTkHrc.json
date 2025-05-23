@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Somos",
+  "parent": "W9IlWVyh",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "T3XTkHrc",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/somos",
+    "target": "_top"
+  }
+}

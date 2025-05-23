@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Zona Privada",
+  "parent": "8X0UmfS3",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "27G6g6ei",
+  "value": "div",
+  "values": {
+    "class": "theme.zonaPrivada"
+  }
+}

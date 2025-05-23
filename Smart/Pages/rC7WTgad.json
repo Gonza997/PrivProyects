@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "n8PTKFst",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "rC7WTgad",
+  "value": "text",
+  "values": {
+    "Content": "JORGE STINCO CONSTRUCCIONES S.A."
+  }
+}

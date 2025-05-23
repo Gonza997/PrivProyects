@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "typography",
+  "parent": "ocgi66bg",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "aTfGfrXI",
+  "value": "typography",
+  "values": {
+    "tag": "h3"
+  }
+}

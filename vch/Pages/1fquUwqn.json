@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div text under logo",
+  "parent": "sVNsWlpb",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "1fquUwqn",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.textUnderLogo"
+  }
+}

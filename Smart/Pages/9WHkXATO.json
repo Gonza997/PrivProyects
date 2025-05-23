@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "loop",
+  "parent": "SzpKp9Ts",
+  "path": "loop.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "9WHkXATO",
+  "value": "loop",
+  "values": {
+    "variablename": "vacancy",
+    "indexName": "index",
+    "variable": "vacancies.slice(currentPage * cardsToShow, currentPage * cardsToShow + cardsToShow)"
+  }
+}

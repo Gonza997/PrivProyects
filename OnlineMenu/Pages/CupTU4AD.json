@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "registerError Message",
+  "parent": "VH2ukFEU",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "CupTU4AD",
+  "value": "condition",
+  "values": {
+    "condition": "registerError"
+  }
+}

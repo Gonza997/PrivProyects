@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Registrate",
+  "parent": "cJ3QoZyo",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "vKerKd0a",
+  "value": "button",
+  "values": {
+    "ButtonText": "REGISTRARSE",
+    "Color": "primary",
+    "className": "theme.tobparRegister",
+    "Action": "(e) => {\n    setpopUpCOL(true)\n}"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "3FyEeTi1",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ozNhLplO",
+  "value": "text",
+  "values": {
+    "Content": "SOLUCIONES EN MOVIMIENTO"
+  }
+}

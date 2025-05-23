@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "l4C5xEUn",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "tGyLXoXW",
+  "value": "text",
+  "values": {
+    "Content": "Compromiso, Innovación, Excelencia, Trabajo en equipo, Respeto"
+  }
+}

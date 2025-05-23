@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div iconBell",
+  "parent": "mDGNUukq",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "dPENoeou",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.iconBell"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "17DbHfzx",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "7AGBZaZy",
+  "value": "text",
+  "values": {
+    "Content": "{vacancies[index]?.Area[0]?.Area}"
+  }
+}

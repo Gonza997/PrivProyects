@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "aDGL6obn",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "c08eUcZf",
+  "value": "text",
+  "values": {
+    "Content": "¿Tenés dudas? ¡Contactanos!"
+  }
+}

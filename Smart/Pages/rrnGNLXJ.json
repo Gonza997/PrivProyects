@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Heading",
+  "parent": "IVAA7J2z",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "rrnGNLXJ",
+  "value": "div",
+  "values": {
+    "class": "theme.headingLogin"
+  }
+}

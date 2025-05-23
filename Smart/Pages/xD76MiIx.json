@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Load from Database",
+  "parent": "LyqUWdp8",
+  "path": "loadFromRedux.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "xD76MiIx",
+  "value": "loadFromRedux",
+  "values": {
+    "elementsLimit": "25",
+    "defaultPage": "1",
+    "data": "89LiMWUL",
+    "variableName": "sectionCountUp"
+  }
+}

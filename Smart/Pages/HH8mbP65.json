@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "div Close Icon",
+  "parent": "R5Ft3ZaH",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "HH8mbP65",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.iconClosePopupNews",
+    "onclick": "{\r\nclosePopUp()\r\n}"
+  }
+}

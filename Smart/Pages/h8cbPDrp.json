@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "!user",
+  "parent": "kaB3t8cn",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "h8cbPDrp",
+  "value": "condition",
+  "values": {
+    "condition": "!user",
+    "usefragment": true
+  }
+}

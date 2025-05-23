@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div linkedin",
+  "parent": "WE01TZoU",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "J7N1daby",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.redes"
+  }
+}

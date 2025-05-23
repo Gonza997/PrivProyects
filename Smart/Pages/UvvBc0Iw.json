@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "XO0ybW7C",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "UvvBc0Iw",
+  "value": "text",
+  "values": {
+    "Content": "QUEBRACHO BLANCO S.R.L."
+  }
+}

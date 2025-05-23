@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Cursos y talleres",
+  "parent": "9f3JvnFt",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "C2vaTCkp",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/cursos-talleres",
+    "tagToUse": "NavLink",
+    "target": "_top"
+  }
+}

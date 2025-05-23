@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Title",
+  "parent": "aUeH5T05",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DzCESVzx",
+  "value": "text",
+  "values": {
+    "Content": "{dataNewsSection.Titulo}"
+  }
+}

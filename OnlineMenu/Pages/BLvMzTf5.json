@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "register",
+  "parent": "6dTQOscE",
+  "path": "register.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "BLvMzTf5",
+  "value": "register",
+  "values": {
+    "OnSuccess": "wynZXVfo",
+    "Data": "data"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "order": 1000,
+  "parent": "cd3JQaUV",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "renderTag": "a",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "aNl7SVnf",
+  "value": "simpleLink",
+  "values": {
+    "target": "_blank",
+    "destination": "https://www.instagram.com/vch.victoria?igsh=MWZzdG54c2o5ZnJvaA==",
+    "tagToUse": "A"
+  }
+}

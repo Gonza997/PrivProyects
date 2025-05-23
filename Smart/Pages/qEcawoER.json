@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "for Animation Texts",
+  "parent": "Edykrv12",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qEcawoER",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.forAnimation",
+    "ref": "(el) => (forAnimationRef.current[1] = el)"
+  }
+}

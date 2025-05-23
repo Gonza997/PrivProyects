@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "b2LlcLH3",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "VphqAbZq",
+  "value": "text",
+  "values": {
+    "Content": "Cursos y talleres"
+  }
+}

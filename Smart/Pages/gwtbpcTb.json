@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "1GH8qB9U",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "gwtbpcTb",
+  "value": "image",
+  "values": {
+    "useAsset": "none",
+    "width": "",
+    "height": "",
+    "className": "theme.caoruselImg",
+    "draggable": true,
+    "path": "/img/${item.Imagen}"
+  }
+}

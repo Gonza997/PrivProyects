@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "OLo2UTAT",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Nr6HNtrH",
+  "value": "simpleLink",
+  "values": {
+    "destination": "https://wa.me/+5493425951522",
+    "tagToUse": "A",
+    "draggable": true,
+    "target": "_blank"
+  }
+}

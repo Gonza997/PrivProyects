@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "loginError Message",
+  "parent": "hbpJoa92",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "A92aNSa3",
+  "value": "condition",
+  "values": {
+    "condition": "loginError"
+  }
+}

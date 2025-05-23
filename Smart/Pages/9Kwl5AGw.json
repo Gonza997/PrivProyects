@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Philosophy Section",
+  "parent": "ZHO86pa0",
+  "path": "component.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "9Kwl5AGw",
+  "value": "component",
+  "values": {
+    "name": "PhilosophySection"
+  }
+}

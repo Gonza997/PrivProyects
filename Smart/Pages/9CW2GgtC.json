@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Hamburger Menu Icon",
+  "parent": "CtAHHW7T",
+  "path": "YesIcon.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "9CW2GgtC",
+  "value": "YesIcon",
+  "values": {
+    "icon": "material-symbols:menu"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "button conocenos más",
+  "parent": "ocdTpMbX",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "rGkLLvRq",
+  "value": "button",
+  "values": {
+    "ButtonText": "CONOCENOS MÁS",
+    "Color": "primary"
+  }
+}

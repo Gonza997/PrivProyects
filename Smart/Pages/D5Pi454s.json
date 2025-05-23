@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "y6Vw8xnb",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "D5Pi454s",
+  "value": "text",
+  "values": {
+    "Content": "{therapist ? 'Mi agenda' : 'Mis sesiones'}"
+  }
+}

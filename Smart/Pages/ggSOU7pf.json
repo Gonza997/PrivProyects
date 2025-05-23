@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "83aaZ4wB",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ggSOU7pf",
+  "value": "text",
+  "values": {
+    "Content": "Sucursales"
+  }
+}

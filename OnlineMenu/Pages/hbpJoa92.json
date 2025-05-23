@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Login Box",
+  "parent": "lHFGeIZm",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hbpJoa92",
+  "value": "div",
+  "values": {
+    "class": "theme.loginBox"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Password",
+  "parent": "VH2ukFEU",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "6xTVR5Rn",
+  "value": "field",
+  "values": {
+    "Field": "TNVH5gqb",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined"
+  }
+}

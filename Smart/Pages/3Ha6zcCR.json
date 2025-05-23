@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "FAIconPicker",
+  "parent": "Sum7SvlK",
+  "path": "FAIconPicker.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3Ha6zcCR",
+  "value": "FAIconPicker",
+  "values": {
+    "value": "{vacancies[index]?.Icono}"
+  }
+}

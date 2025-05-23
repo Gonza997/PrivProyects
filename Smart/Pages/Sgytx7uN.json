@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "f21OoW4i",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Sgytx7uN",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "A",
+    "destination": "https://twitter.com/",
+    "target": "_blank"
+  }
+}

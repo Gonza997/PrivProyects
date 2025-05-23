@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "BannerCarousel",
+  "parent": "ZHO86pa0",
+  "path": "component.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "s5GbrHmG",
+  "value": "component",
+  "values": {
+    "name": "BannerCarousel"
+  }
+}

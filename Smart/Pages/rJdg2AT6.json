@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "code",
+  "parent": "AlpmUqOH",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "rJdg2AT6",
+  "value": "code",
+  "values": {
+    "code": "const updateLinePosition = () => {\r\n      const timeline = timelineRef.current;\r\n      if (!timeline) return;\r\n\r\n      const firstEvent = timeline.querySelector(`.${theme.timelineEvent}:first-child .${theme.timelineContent}`);\r\n      const lastEvent = timeline.querySelector(`.${theme.timelineEvent}:last-child .${theme.timelineContent}`);\r\n\r\n      if (firstEvent && lastEvent) {\r\n        const firstPoint = firstEvent.getBoundingClientRect().left + window.scrollX + firstEvent.offsetWidth;\r\n        const lastPoint = lastEvent.getBoundingClientRect().left + window.scrollX + lastEvent.offsetWidth;\r\n\r\n        timeline.style.setProperty('--line-start', `${firstPoint}px`);\r\n        timeline.style.setProperty('--line-end', `${lastPoint}px`);\r\n      }\r\n    };\r\n\r\n    window.addEventListener('resize', updateLinePosition);\r\n    updateLinePosition();\r\n\r\n    return () => window.removeEventListener('resize', updateLinePosition);"
+  }
+}

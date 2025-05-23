@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "TsT9TB2h",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "K8LBqsdD",
+  "value": "text",
+  "values": {
+    "Content": "IMPACTO"
+  }
+}

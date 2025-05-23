@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Tags Flex Top",
+  "parent": "DZm0Qvl8",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qlCTUV7b",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.popupNewsTagsFlexTop"
+  }
+}

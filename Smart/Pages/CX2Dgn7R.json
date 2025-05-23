@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Buttons",
+  "parent": "BQSTZVrH",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "CX2Dgn7R",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.topbarButtons"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "RRHH",
+  "parent": "CX2Dgn7R",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Lxd1XQBw",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/",
+    "tagToUse": "NavLink",
+    "target": "_top",
+    "activeClassName": "theme.linkSelected",
+    "Action": "scrollToRRHH"
+  }
+}

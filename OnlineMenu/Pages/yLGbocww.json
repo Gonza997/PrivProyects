@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "Bw57bPnV",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "yLGbocww",
+  "value": "text",
+  "values": {
+    "Content": "Password reset?"
+  }
+}

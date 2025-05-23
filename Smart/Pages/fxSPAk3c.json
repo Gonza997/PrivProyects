@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Ciudad",
+  "parent": "o2HHOSoF",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "fxSPAk3c",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.location"
+  }
+}

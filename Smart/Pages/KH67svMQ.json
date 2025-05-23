@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Percentage Section",
+  "parent": "lyENXUSX",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "KH67svMQ",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.percentageSection"
+  }
+}

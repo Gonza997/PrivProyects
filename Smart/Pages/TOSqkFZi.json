@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Language",
+  "open": false,
+  "parent": "XuVNOtsE",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TOSqkFZi",
+  "value": "useState",
+  "values": {
+    "variableName": "lang",
+    "defaultValue": "'en'"
+  }
+}

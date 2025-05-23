@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Topbar",
+  "parent": "UfC6Saki",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "JwrDRcKt",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "`${theme.topbar} ${isSticky ? theme.reducedTopbar : ''}`",
+    "ref": ""
+  }
+}

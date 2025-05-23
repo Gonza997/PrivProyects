@@ -1,0 +1,224 @@
+// Asset created by Aptugo
+@import 'variables.module.scss';
+
+// Display Flex
+@mixin flex-config($flex-direction: null, $gap: null, $align-items: null, $justify-content: null, $flex-wrap: null) {
+  display: flex;
+
+  @if $flex-direction != null {
+    flex-direction: $flex-direction;
+  }
+  @if $gap != null {
+    gap: $gap;
+  }
+  @if $align-items != null {
+    align-items: $align-items;
+  }
+  @if $justify-content != null {
+    justify-content: $justify-content;
+  }
+  @if $flex-wrap != null {
+    flex-wrap: $flex-wrap;
+  }
+}
+
+//Grid
+@mixin grid($grid-template-columns: null, $grid-template-rows: null, $grid-column-gap: null, $grid-row-gap: null) {
+  display: grid;
+  @if $grid-template-columns != null {
+    grid-template-columns: $grid-template-columns;
+  }
+  @if $grid-template-rows != null {
+    grid-template-rows: $grid-template-rows;
+  }
+  @if $grid-column-gap != null {
+    grid-column-gap: $grid-column-gap;
+  }
+  @if $grid-row-gap != null {
+    grid-row-gap: $grid-row-gap;
+  }
+
+  @content;
+}
+
+// Fonts Config
+@mixin font-config($font-size: 25px, $font-weight: 500, $line-height: 28px, $font-color: $dark-purple, $text-transform: null, $text-align: null) {
+  font-family: $font-family;
+  font-style: normal;
+  font-weight: $font-weight;
+  font-size: $font-size;
+  line-height: $line-height;
+  color: $font-color;
+
+  @if $text-transform != null {
+    text-transform: $text-transform;
+  }
+  @if $text-align != null {
+    text-align: $text-align;
+  }
+}
+
+@mixin text-ellipsis(
+  $-webkit-line-clamp: 3,
+  $-webkit-box-orient: vertical,
+  $line-clamp: 3,
+  $box-orient: vertical,
+  $text-overflow: ellipsis,
+  $overflow: hidden
+) {
+  -webkit-line-clamp: $-webkit-line-clamp;
+  -webkit-box-orient: $-webkit-box-orient;
+  line-clamp: $line-clamp;
+  box-orient: $box-orient;
+  text-overflow: $text-overflow;
+  overflow: $overflow;
+}
+
+// Background Images
+@mixin background-image-config($background-url: null, $background-size: null, $background-position: null, $background-repeat: null) {
+  @if $background-url != null {
+    background-image: url($background-url);
+  }
+  @if $background-size != null {
+    background-size: $background-size;
+  }
+  @if $background-position != null {
+    background-position: $background-position;
+  }
+  @if $background-repeat != null {
+    background-repeat: $background-repeat;
+  }
+}
+
+// Position
+@mixin position-config($position: null, $top: null, $right: null, $bottom: null, $left: null) {
+  @if $position != null {
+    position: $position;
+  }
+  @if $top != null {
+    top: $top;
+  }
+  @if $right != null {
+    right: $right;
+  }
+  @if $bottom != null {
+    bottom: $bottom;
+  }
+  @if $left != null {
+    left: $left;
+  }
+}
+
+@mixin light-blue-button {
+  border: $border-solid-lightgrey;
+  border-radius: 40px;
+  height: 40px;
+  @include font-config(15px, 600, 24px, $light-blue, none, center);
+  padding: 0 25px;
+}
+
+@mixin dark-purple-button {
+  background: $purple;
+  border-radius: 2.5rem;
+  width: 10rem;
+  padding: 0.625rem 1rem;
+  @include font-config(0.875rem, 600, 130%, $white, uppercase, center);
+
+  &:hover,
+  &.popoverOpen {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+}
+
+@mixin topbar-shadow-base {
+  content: '';
+  position: absolute;
+  height: 100%;
+  background: $topbar-shadow;
+  clip-path: ellipse(100% 100% at 0% 0%);
+  width: 100%;
+  max-width: 100px;
+}
+
+@mixin button($color, $background, $border: null, $box-shadow: null) {
+  @include font-config(1rem, 600, 130%, $color, uppercase, center);
+  background-color: $background;
+  width: 12rem;
+  padding: 0.625rem 0rem;
+  border-radius: 2.5rem;
+  @if $border != null {
+    border: $border;
+  }
+  @if $box-shadow != null {
+    box-shadow: $box-shadow;
+  }
+}
+
+@mixin serviceImageCard($background, $border-radius) {
+  @include flex-config(null, 5.75rem, center);
+  background: $background;
+  width: 100%;
+
+  .content {
+    @include flex-config(column, null, flex-start, center);
+    width: 40.25%;
+
+    .contentInfo {
+      @include flex-config(column, 1rem, flex-start);
+
+      .subtitles {
+        @include flex-config(column, 0.5rem, flex-start);
+      }
+    }
+  }
+
+  .image {
+    height: 30rem;
+    flex: 1 0 0;
+    border-radius: $border-radius;
+    box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.15);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+@mixin snackBar($backgroundColor) {
+  :global(.MuiSnackbar-root) {
+    :global(.MuiAlert-icon) {
+      display: none !important;
+    }
+
+    :global(.MuiAlert-root) {
+      border-radius: 0.3125rem;
+      box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+      padding: 1.25rem 4.875rem;
+      background-color: $backgroundColor;
+      @include flex-config(column, null, null, space-around);
+
+      [class*='MuiTypography-h5'] {
+        @include font-config(0.9375rem, 600, 1.5rem, $white, null, center);
+      }
+    }
+  }
+}
+
+//scrollbar
+@mixin scrollPopUp {
+  &::-webkit-scrollbar {
+    width: 5px;
+    height: 2px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: #dfeaec;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: $FountainDark;
+    border-radius: 20px;
+  }
+  &::-webkit-scrollbar-button {
+    display: none;
+  }
+}

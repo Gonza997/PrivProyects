@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Title",
+  "parent": "ck910FQp",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "9zHgTIEo",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.titlePopupNews"
+  }
+}

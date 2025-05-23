@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "Menu",
+  "parent": "g1tHqHc3",
+  "path": "Menu.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "kaB3t8cn",
+  "value": "Menu",
+  "values": {
+    "positionVertical": "top",
+    "positionHorizontal": "right",
+    "onClose": "(params) => {setopenHamburguer(null)}",
+    "anchorElement": "openHamburguer",
+    "className": "theme.menuHamburguer"
+  }
+}

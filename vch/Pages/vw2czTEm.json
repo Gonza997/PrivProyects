@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div text under logo",
+  "parent": "073MMJnV",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "vw2czTEm",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.textUnderLogo"
+  }
+}

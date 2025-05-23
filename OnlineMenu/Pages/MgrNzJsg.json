@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "aTfGfrXI",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "MgrNzJsg",
+  "value": "text",
+  "values": {
+    "Content": "Reset your Password"
+  }
+}

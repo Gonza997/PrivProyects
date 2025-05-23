@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "XEuNTh42",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "cJ3QoZyo",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.buttonLoginRegister"
+  }
+}

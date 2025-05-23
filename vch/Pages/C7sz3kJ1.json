@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div everyLink",
+  "parent": "Lx4do6A3",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "C7sz3kJ1",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.everyLink"
+  }
+}

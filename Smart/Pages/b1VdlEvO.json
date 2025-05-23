@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "loop",
+  "parent": "rPL40MKF",
+  "path": "loop.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "b1VdlEvO",
+  "value": "loop",
+  "values": {
+    "variablename": "client",
+    "indexName": "index",
+    "variable": "clients"
+  }
+}

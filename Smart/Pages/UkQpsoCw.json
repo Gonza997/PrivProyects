@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "internalUse": true,
+  "name": "Body",
+  "parent": "BmsAavfe",
+  "path": "b.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "UkQpsoCw",
+  "value": "b",
+  "values": {
+    "className": [
+      "theme.registerBody"
+    ],
+    "primaryColor": "blue"
+  }
+}

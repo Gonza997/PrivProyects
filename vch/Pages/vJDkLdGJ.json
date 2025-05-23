@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "D8JxMMKH",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "vJDkLdGJ",
+  "value": "text",
+  "values": {
+    "Content": "Nuesto Instagram"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Mis sesiones",
+  "parent": "lvGGlTO1",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "chRNusWG",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/mis-sesiones",
+    "tagToUse": "NavLink"
+  }
+}

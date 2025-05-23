@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Container",
+  "parent": "ylqmSDQU",
+  "path": "Container.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "yOd07Kr5",
+  "value": "Container",
+  "values": {
+    "className": "theme.loginPage",
+    "maxWidth": "md"
+  }
+}

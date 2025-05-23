@@ -1,0 +1,24 @@
+{
+  "cascades": false,
+  "delayContext": true,
+  "extraFiles": [
+    {
+      "source": "elements/Programming/baseComponent.tsx",
+      "destination": "front-end/components/{{ element.values.name | friendly }}/index.tsx"
+    }
+  ],
+  "name": "Footer",
+  "order": 1000,
+  "parent": "DD4asoWx",
+  "path": "component.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hblxvIlf",
+  "usesDelays": [
+    "bpr"
+  ],
+  "value": "component",
+  "values": {
+    "name": "Footer"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "divLogo",
+  "parent": "yTw3ryn2",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "v0siySmL",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.divLogo"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "useRef",
+  "parent": "ntI9TWsQ",
+  "path": "useRef.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "T5Ki5Dtd",
+  "value": "useRef",
+  "values": {
+    "variableName": "timelineRef",
+    "defaultValue": "null"
+  }
+}

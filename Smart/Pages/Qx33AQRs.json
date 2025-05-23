@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Date",
+  "parent": "E4fJCeAZ",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Qx33AQRs",
+  "value": "text",
+  "values": {
+    "Content": "Fecha"
+  }
+}

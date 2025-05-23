@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "itemSuperior",
+  "parent": "lR38H1DI",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Bs8GR6BA",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.itemSuperior"
+  }
+}

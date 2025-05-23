@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Hamburger",
+  "parent": "vcFskef6",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ND6WTdmD",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.hamburgerMenu",
+    "onclick": "toggleMenu(e)"
+  }
+}

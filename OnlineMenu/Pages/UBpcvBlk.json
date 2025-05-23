@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "watchVariable",
+  "parent": "irpb5Nnb",
+  "path": "watchVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "UBpcvBlk",
+  "value": "watchVariable",
+  "values": {
+    "watchVariable": "params.nonce"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "alertMessage",
+  "parent": "CdBCazTd",
+  "path": "alertMessage.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "0okTVmi1",
+  "value": "alertMessage",
+  "values": {
+    "variant": "standard",
+    "severity": "success"
+  }
+}

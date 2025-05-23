@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Date",
+  "parent": "cLFiadUa",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "C1vrLisF",
+  "value": "text",
+  "values": {
+    "Content": "Hora"
+  }
+}

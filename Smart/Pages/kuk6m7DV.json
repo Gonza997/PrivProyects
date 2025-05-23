@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "Productos y Servicios",
+  "parent": "CX2Dgn7R",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "kuk6m7DV",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/",
+    "target": "_top",
+    "activeClassName": "theme.linkSelected",
+    "tagToUse": "NavLink",
+    "Action": "scrollToServices"
+  }
+}

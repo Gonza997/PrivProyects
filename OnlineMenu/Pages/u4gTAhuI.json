@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "DBykH255",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "u4gTAhuI",
+  "value": "text",
+  "values": {
+    "Content": " Register!",
+    "ClassName": "theme.textRegister"
+  }
+}

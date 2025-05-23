@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "zhaookw2",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "RK2tovcm",
+  "value": "text",
+  "values": {
+    "Content": "Usuario"
+  }
+}

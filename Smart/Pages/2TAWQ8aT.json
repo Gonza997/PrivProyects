@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "MaterialIcon",
+  "parent": "HH8mbP65",
+  "path": "MaterialIcon.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "2TAWQ8aT",
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "Close",
+    "color": "custom",
+    "custom": "",
+    "fontSize": "90",
+    "className": "theme.iconPopupNews"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "udP8evC5",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "5wDw5KxO",
+  "value": "text",
+  "values": {
+    "Content": "Ingresa con tu cuenta para poder reservar tu sesión con uno de los terapeutas de Fenix."
+  }
+}

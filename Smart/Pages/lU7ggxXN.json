@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "loop",
+  "parent": "HrvKffEm",
+  "path": "loop.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "lU7ggxXN",
+  "value": "loop",
+  "values": {
+    "variablename": "item",
+    "indexName": "index",
+    "variable": "sectHeroImage"
+  }
+}

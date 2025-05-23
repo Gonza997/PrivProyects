@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "timelineSection",
+  "parent": "z15GE5MT",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "STIA7l0N",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.timelineSection",
+    "ref": ""
+  }
+}

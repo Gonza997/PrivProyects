@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Down side buttons",
+  "parent": "O7uXmTW7",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qAie1WR1",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.downSideButtonsPopupNews"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Tags Felx Time",
+  "parent": "kviTCiFm",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "OSkGi51p",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.popupNewsTagsFlex"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div img",
+  "parent": "R5Ft3ZaH",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "lpsZ6W9l",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.imgNews"
+  }
+}

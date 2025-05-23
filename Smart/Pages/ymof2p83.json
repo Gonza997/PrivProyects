@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "MaterialIcon",
+  "parent": "qdUmJSJ7",
+  "path": "MaterialIcon.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ymof2p83",
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "Man3Rounded"
+  }
+}

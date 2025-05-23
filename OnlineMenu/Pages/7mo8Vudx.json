@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "44BWqL8S",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "7mo8Vudx",
+  "value": "text",
+  "values": {
+    "Content": "Platos"
+  }
+}

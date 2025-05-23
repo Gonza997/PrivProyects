@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div InfiniteLooper",
+  "parent": "0Vy2nlm9",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "zkL4qT70",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.infiniteLooper"
+  }
+}

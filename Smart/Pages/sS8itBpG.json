@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "watchVariable",
+  "parent": "3MMFdiCN",
+  "path": "watchVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "sS8itBpG",
+  "value": "watchVariable",
+  "values": {
+    "watchVariable": "params.nonce"
+  }
+}

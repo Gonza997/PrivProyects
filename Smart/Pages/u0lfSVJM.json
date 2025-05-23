@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "therapist",
+  "parent": "lvGGlTO1",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "u0lfSVJM",
+  "value": "condition",
+  "values": {
+    "condition": "therapist",
+    "usefragment": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "YesIcon",
+  "parent": "H9dGqXgo",
+  "path": "YesIcon.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "duG0gzfw",
+  "value": "YesIcon",
+  "values": {
+    "icon": "logos:whatsapp-icon"
+  }
+}

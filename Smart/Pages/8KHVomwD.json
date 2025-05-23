@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Timeline",
+  "parent": "ZHO86pa0",
+  "path": "component.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8KHVomwD",
+  "value": "component",
+  "values": {
+    "name": "Timeline",
+    "props": "events"
+  }
+}

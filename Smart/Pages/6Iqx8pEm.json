@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "lpsZ6W9l",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "6Iqx8pEm",
+  "value": "image",
+  "values": {
+    "path": "/img/${dataNewsSection.ImagenPortada}",
+    "draggable": true
+  }
+}

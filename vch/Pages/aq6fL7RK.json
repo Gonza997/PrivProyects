@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "fdVBPSMP",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "aq6fL7RK",
+  "value": "text",
+  "values": {
+    "Content": "{recoverError}"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "checkbox",
+  "parent": "gbE0vP4q",
+  "path": "checkbox.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "5eEUzlfJ",
+  "value": "checkbox",
+  "values": {
+    "Checked": "loginData.RememberMe",
+    "label": "Remember me",
+    "OnClick": "{() => { setloginData({ ...loginData, RememberMe: !loginData.RememberMe }) }}"
+  }
+}

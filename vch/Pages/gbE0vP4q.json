@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "PydpoSBn",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "gbE0vP4q",
+  "value": "div",
+  "values": {
+    "class": "theme.flexLine"
+  }
+}

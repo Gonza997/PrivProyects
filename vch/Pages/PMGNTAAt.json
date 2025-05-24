@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "uqd0SE21",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "PMGNTAAt",
+  "value": "text",
+  "values": {
+    "Content": "Enter your details below.",
+    "ClassName": "theme.textEnterBelow"
+  }
+}

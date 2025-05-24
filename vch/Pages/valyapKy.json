@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "alertMessage",
+  "parent": "ZOBgMFBW",
+  "path": "alertMessage.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "valyapKy",
+  "value": "alertMessage",
+  "values": {
+    "variant": "standard",
+    "severity": "success"
+  }
+}

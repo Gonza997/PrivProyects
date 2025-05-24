@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "wxgcUX8K",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ZJGoZ85O",
+  "value": "text",
+  "values": {
+    "Content": "Don't have an account? ",
+    "ClassName": "theme.right"
+  }
+}

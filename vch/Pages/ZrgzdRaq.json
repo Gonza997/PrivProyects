@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "handleRegister",
+  "parent": "gyk9MaEr",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ZrgzdRaq",
+  "value": "function",
+  "values": {
+    "functionName": "handleRegister",
+    "functionBody": "const data = { ...Usersdata, Role: 'User' }"
+  }
+}

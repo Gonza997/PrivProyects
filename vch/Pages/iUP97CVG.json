@@ -1,0 +1,9 @@
+{
+  "asociated_table": "CxWEBMpK",
+  "filename": "() => aptugo.activeApplication.tables.find(table => table.unique_id === \"CxWEBMpK\").name + '.tsx'",
+  "name": "() => aptugo.activeApplication.tables.find(table => table.unique_id === \"CxWEBMpK\").name",
+  "parent": "sDgLOFlC",
+  "path": "() => '/' + aptugo.activeApplication.tables.find(table => table.unique_id === \"CxWEBMpK\").name",
+  "type": "page",
+  "unique_id": "iUP97CVG"
+}

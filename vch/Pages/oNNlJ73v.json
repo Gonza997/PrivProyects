@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "tTfIMsTs",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "oNNlJ73v",
+  "value": "text",
+  "values": {
+    "Content": "{currentUser.FirstName} {currentUser.LastName}"
+  }
+}

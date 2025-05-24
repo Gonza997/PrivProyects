@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "code",
+  "parent": "oUoaDuai",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Jv3p5IRm",
+  "value": "code",
+  "values": {
+    "code": "import AuthService from '../services/auth.service'\nimport authHeaders from '../services/auth-header'\n"
+  }
+}

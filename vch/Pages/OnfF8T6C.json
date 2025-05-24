@@ -1,0 +1,10 @@
+{
+  "cascades": false,
+  "name": "First Enter (without nonce)",
+  "parent": "3QAgXf2n",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "OnfF8T6C",
+  "value": "dummyEncloser"
+}

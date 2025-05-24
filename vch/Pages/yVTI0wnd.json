@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Heading",
+  "parent": "PydpoSBn",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "yVTI0wnd",
+  "value": "div",
+  "values": {
+    "class": "theme.headingLogin"
+  }
+}

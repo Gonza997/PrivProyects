@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "usersData",
+  "parent": "gyk9MaEr",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "noeWnz8T",
+  "value": "useState",
+  "values": {
+    "variableName": "usersData",
+    "defaultValue": "{\nerrField: null,\nerrMessage: null\n}"
+  }
+}

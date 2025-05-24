@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Recover Error!",
+  "parent": "iruNTiGR",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "BoXISDgf",
+  "value": "condition",
+  "values": {
+    "condition": "recoverError"
+  }
+}

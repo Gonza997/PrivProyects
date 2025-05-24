@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "handleLogin",
+  "parent": "5DMbFnZB",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8wEh2106",
+  "value": "function",
+  "values": {
+    "functionName": "handleLogin",
+    "functionBody": ""
+  }
+}

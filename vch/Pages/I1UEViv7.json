@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Link",
+  "parent": "BKty8pAV",
+  "path": "Link.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "I1UEViv7",
+  "value": "Link",
+  "values": {
+    "innerText": " Login",
+    "destination": "/login"
+  }
+}

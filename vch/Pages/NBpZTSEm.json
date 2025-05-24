@@ -1,0 +1,14 @@
+{
+  "cascades": true,
+  "name": "Current User",
+  "parent": "UycongCD",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "NBpZTSEm",
+  "value": "useState",
+  "values": {
+    "defaultValue": "{}",
+    "variableName": "currentUser"
+  }
+}

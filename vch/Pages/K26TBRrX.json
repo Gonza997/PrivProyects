@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "ev3FUxLt",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "K26TBRrX",
+  "value": "text",
+  "values": {
+    "Content": "Profile"
+  }
+}

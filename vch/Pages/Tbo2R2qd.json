@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "MenuItem",
+  "parent": "zv6UUTm5",
+  "path": "MenuItem.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Tbo2R2qd",
+  "value": "MenuItem",
+  "values": {
+    "onclick": "(params) => { AuthService.logout(); props.history.push('/') }"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "registerError Message",
+  "parent": "sNUNxVV6",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "9KaB629k",
+  "value": "condition",
+  "values": {
+    "condition": "registerError"
+  }
+}

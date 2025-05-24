@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Register Area",
+  "parent": "G8kmvRUg",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "wxgcUX8K",
+  "value": "div",
+  "values": {
+    "class": "theme.containerLogin"
+  }
+}

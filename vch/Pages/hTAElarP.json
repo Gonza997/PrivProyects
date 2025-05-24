@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "typography",
+  "parent": "iruNTiGR",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hTAElarP",
+  "value": "typography",
+  "values": {
+    "tag": "h3"
+  }
+}

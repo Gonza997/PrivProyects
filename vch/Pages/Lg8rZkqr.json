@@ -1,0 +1,14 @@
+{
+  "cascades": true,
+  "name": "checkIfLoggedIn",
+  "parent": "UycongCD",
+  "path": "checkIfLoggedIn.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Lg8rZkqr",
+  "value": "checkIfLoggedIn",
+  "values": {
+    "loginScreenNot": "Gt7TTVfR",
+    "loginScreen": "none"
+  }
+}
